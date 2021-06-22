@@ -1,6 +1,7 @@
 ---
 title: Course Overview
 excerpt: 
+        <p><font color='red'>Note: this blog will be deprecated as the course is moving to a full semester.  The material found here will be elongated accordingly and re-hosted in a future repository.</font></p>
         <p>This course comprises five weeks.  Each post on this page covers a week's worth of material.  The post list (this page) shows a quick preview of the things you need to do each week (module videos, assignments, etc.).  Clicking 'More' will take you to the blog post for each module (these posts are intended to replace slides).  Ensure you monitor Blackboard for assignment deadlines!</p>
 
         <p><a href="https://youtu.be/-VC4PYxvNm8" target="_blank">Welcome video [10:07]</a></p>
