@@ -1,7 +1,7 @@
 ---
 title: Course Overview
 excerpt: 
-        <p>This course comprises five weeks.  Each post on this page covers a week's worth of material.  The post list (this page) shows a quick preview of the things you need to do each week (module videos, assignments, etc.).  Clicking 'More' will take you to the blog post for each module (these posts are intended to replace slides).  Ensure you monitor Blackboard for assignment deadlines!</p>
+        <p>This course comprises fifteen weeks.  Each post on this page covers a week's worth of material.  The post list (this page) shows a quick preview of the things you need to do each week (module videos, assignments, etc.).  Clicking 'More' will take you to the blog post for each module (these posts are intended to replace slides).  Ensure you monitor Blackboard for assignment deadlines!</p>
 
         <p><a href="https://youtu.be/-VC4PYxvNm8" target="_blank">Welcome video [10:07]</a></p>
 
@@ -13,7 +13,7 @@ excerpt:
         </ul>
 ---  
 
-Given the little time we have together, this class is going to comprise a lot of information distilled into a bunch of bite-sized pieces to get you up and running as quickly as possible.  To give you a quick overview of what we'll be using:
+Given the little time we have together and the massive amount of resources up in the cloud, this class is going to comprise a lot of information distilled into a bunch of bite-sized pieces to get you up and running as quickly as possible.  To give you a quick overview of what we'll be using:
 
 * This website
 

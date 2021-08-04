@@ -4,9 +4,21 @@ Course repository for CIS680 - Cloud Application Development at Grand Valley Sta
 
 ## About
 
-CIS680 is a five-week asynchronous-online course at [Grand Valley State University](https://www.gvsu.edu) for cloud applications development.  Given its asynchronous state, I've made all the course materials open source to benefit the cloud education community.  All materials and labs will be performed on the [Google Cloud Platform (GCP)](https://cloud.google.com/).
+CIS680 is a fifteen-week asynchronous-online course at [Grand Valley State University](https://www.gvsu.edu) for cloud applications development.  Given its asynchronous state, I've made all the course materials open source to benefit the cloud education community.  All materials and labs will be performed on the [Google Cloud Platform (GCP)](https://cloud.google.com/).
 
 > Naturally, I will only be marking up assignments for students registered in the course.  If you have questions on the material or want to learn how to use GCP in your classroom please feel free to contact me or my [friends at Google Cloud's education wing](https://edu.google.com/products/google-cloud/).
+
+> Additionally, please note that our Blackboard page is your home for **all** deadlines! 
+
+As a heads up, the videos were initially recorded in 2020 and I have updated/added/edited where necessary.  Google (and other cloud providers) have a habit of updating their interfaces as often as humanly possible.  If you discover a video (that I have missed) please let me know.
+
+## Quick Links
+
+* [YouTube playlist](https://www.youtube.com/playlist?list=PLKl241YUM7mwtMlCQBQwFzWaMe453SahI)
+* Course website - Blackboard (sorry non-GVSU students)
+* [Google Cloud Console](https://console.cloud.google.com)
+* Syllabus
+* [Course Content](#course-materials) 
 
 ## Prerequisites
 
