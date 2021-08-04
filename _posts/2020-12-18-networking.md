@@ -1,6 +1,6 @@
 ---
-title: Week 3/Module 3 - Cloud Networking
-tags: week3
+title: Week 9 - Cloud Networking
+tags: week9
 excerpt: 
         <p>By the end of this module, you'll gain experience with cloud networking, virtual private clouds, and IP addressing.</p>
 

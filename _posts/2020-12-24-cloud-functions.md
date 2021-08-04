@@ -1,6 +1,6 @@
 ---
-title: Week 1/Module 3 - Serverless functions
-tags: week1
+title: Week 3 - Serverless functions
+tags: week3
 excerpt: 
         <p>This module will introduce you to the concept of serverless functions and give you practical experience in the various facets of creating them.</p>
 

@@ -1,6 +1,6 @@
 ---
-title: Week 2/Module 1 - Designing Cloud Applications
-tags: week2
+title: Week 4 - Designing Cloud Applications
+tags: week4
 excerpt: 
         <p>This module will get you thinking about designing apps in the cloud.  We'll cover architecting cloud applications and designing microservices.</p>
 

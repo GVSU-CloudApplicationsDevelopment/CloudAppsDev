@@ -1,6 +1,6 @@
 ---
-title: Week 2/Module 3 - Cloud Storage
-tags: week2
+title: Week 6 - Cloud Storage
+tags: week6
 excerpt: 
         <p>By the end of this module, you'll gain experience with storing information on and around the cloud.</p>
 

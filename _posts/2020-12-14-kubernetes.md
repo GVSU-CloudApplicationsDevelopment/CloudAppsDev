@@ -1,6 +1,6 @@
 ---
-title: Week 5/Module 1 - Kubernetes
-tags: week5
+title: Week 13 - Kubernetes
+tags: week13
 excerpt: 
         <p>By the end of this module, you'll gain experience in working with the Kubernetes environment.</p> 
 
