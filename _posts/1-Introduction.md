@@ -15,7 +15,7 @@ Welcome to Cloud Application Development!  This module will introduce you to the
 
 > Module labs:
 > * Getting to know you (Internal to Blackboard)
-> * [CIS680 Lab 1 - Intro. to Google Cloud](https://efredericks.github.io/CloudAppsDev/codelabs/CIS680-Lab1-Setup)
+> * [CIS680 Lab 1 - Intro. to Google Cloud](https://gvsu-cloudapplicationsdevelopment.github.io/CloudAppsDev/codelabs/CIS680-Lab1-Setup/)
 
 *** 
 
@@ -135,7 +135,7 @@ Time for your first lab assignment!  This will get you up and running with a Goo
 
 **Ensure you download the lab manual from Blackboard!**
 
-Click here for your first lab [CIS680 Lab 1 - Intro. to Google Cloud](https://efredericks.github.io/CloudAppsDev/codelabs/CIS680-Lab1-Setup)
+Click here for your first lab: [CIS680 Lab 1 - Intro. to Google Cloud](https://gvsu-cloudapplicationsdevelopment.github.io/CloudAppsDev/codelabs/CIS680-Lab1-Setup/)
 
 ## Additional Resources
 * [Google Cloud Platform](https://cloud.google.com/)
