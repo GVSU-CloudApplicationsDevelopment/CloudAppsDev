@@ -38,24 +38,7 @@ For what it's worth, you could also use PowerShell to interact with GCP, however
 
 If you are registered for the course at GVSU, **YOU DO NOT NEED TO PAY FOR CLOUD CREDITS**.  **DO NOT ENTER A CREDIT CARD**.  You should have received an email from me (via Blackboard) at the start of class with a coupon, and if you end up running out I can get more credits for you.
 
-If you are not registered, you're on your own.  Sorry.  Check the [Introduction](https://efredericks.github.io/CloudAppsDev/) content for more information.
-
-<a id="course-materials"></a>
-## Course Materials
-
-### Week 1 - Introduction to the Cloud
-
-1. [Module 1 - Introduction](classes/1-Introduction.md)
-2. [Module 2 - Cloud Technologies](classes/2-CloudTechnologies.md)
-
-
-### Week 2 - Building and Testing Cloud Applications
-
-### Week 3 - Deploying Applications
-
-### Week 4 - Integrating Cloud Services
-
-### Week 5 - Performance Monitoring
+If you are not registered, you're on your own.  Sorry.  Check the [Introduction](https://gvsu-cloudapplicationsdevelopment.github.io/CloudAppsDev/2020/12/27/class-structure.html) content for more information.
 
 ---
 
