@@ -124,6 +124,13 @@ Considerations consistently change with respect to cloud providers.  Here, I am 
 * Cons:
   - Tend to be a 'secondary partner' as they not as prominent in the cloud game
 
+## Qwiklabs Options
+
+Before we get into the lab, let's talk a little bit about [Qwiklabs](https://www.qwiklabs.com/).  By now, you should've received credits from Qwiklabs (separately from Google Cloud!).  Qwiklabs are self-guided labs that walk you through a particular topic, where each lab is essentially a self-contained instance.  Essentially each Qwiklab is sandboxed in that whatever you create lives and dies within that particular instance.
+
+The reason we're talking about them here is that later on in this class you'll have to go through some for homework, however you're more than welcome to start digging into them now if you want to learn a particular topic (or want a different perspective on the topic at hand).  A neat thing with Qwiklabs is that some of them use AWS instead of Google Cloud.
+
+At present we were not able to get free credits for AWS (you can sign up for the free tier, however that's a "forever" thing and I'd rather not burn out your accounts on class projects), but if you want experience in that realm feel free to make use of the credits!
 
 ## Google Cloud Account Setup (Lab)
 
