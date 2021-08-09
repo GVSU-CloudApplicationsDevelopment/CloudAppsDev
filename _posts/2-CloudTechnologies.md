@@ -171,7 +171,7 @@ One thing you will be doing often in this course is writing/updatining files wit
 
 > Note: I will be using `vim` in all my demos.  Don't feel obligated to learn it, just be aware that's how I prefer to edit files.
 
-## Codelabs, QuikLabs, and Colabs
+## Codelabs, QwikLabs, and Colabs
 
 This is a slight aside but I wanted to clarify the difference between these three "lab-ish" technologies we'll be mainly using.  You already have experience with Codelabs already if you did the VM setup assignment, however...
 
@@ -181,7 +181,7 @@ This is a slight aside but I wanted to clarify the difference between these thre
 
 Codelabs are tutorial-style manuals that walk you through a task.  These can be developed by anybody (and the [tools for doing so have been made open source](https://github.com/googlecodelabs/tools)) and focus on a particular topic.  We will be using a lot of these for our assignments.  Of note is that these are **free** to participate in.
 
-Qwiklabs are **paid-for** labs that are similar in style to Codelabs, however they are better structured and generally will focus around a theme (called Quests).  Qwiklabs can be used to get badges that you can share on social media noting that you have experience with a particular topic.  There also tend to be videos associated with Quests as well.  Of note is that these are **not free**, however if you are enrolled in class with me you will receive credits to apply to Qwiklabs as needed.
+Qwiklabs (talked about last time) are **paid-for** labs that are similar in style to Codelabs, however they are better structured and generally will focus around a theme (called Quests).  Qwiklabs can be used to get badges that you can share on social media noting that you have experience with a particular topic.  There also tend to be videos associated with Quests as well.  Of note is that these are **not free**, however if you are enrolled in class with me you will receive credits to apply to Qwiklabs as needed.
 
 Colabs are an interesting aside in that they are effectively Jupyter notebooks demonstrating some topic.  A Colab will typically have Markdown and executable code interspersed in a single document that you can interact with.  These are free to the point that you will be charged cloud credits to use (i.e., the executing code runs against your billing account).
 
