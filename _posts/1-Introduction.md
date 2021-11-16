@@ -79,7 +79,7 @@ Unless if you are running a business with unlimited funds, you don't want to see
 
 There are several players in the game (i.e., the battle for cloud dominance) as of this point, however the big three are Google, Microsoft, and Amazon.  Whichever you end up using is more than likely going to come down to enumerating a list of tradeoffs, business decisions, and personal preferences.  
 
-As of now (December 2020), AWS owns an astonishing 62% of the cloud market, with Microsoft (Azure) coming in at 20% and Google (GCP) with 12%.  
+As of December 2020, AWS owns an astonishing 62% of the cloud market, with Microsoft (Azure) coming in at 20% and Google (GCP) with 12%.  
 
 > *Source: [https://medium.com/weekly-webtips/google-cloud-vs-aws-vs-azure-bafb554e036](https://medium.com/weekly-webtips/google-cloud-vs-aws-vs-azure-bafb554e036)*
 
