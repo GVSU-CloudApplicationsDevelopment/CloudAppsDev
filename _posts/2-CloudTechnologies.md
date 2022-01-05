@@ -3,7 +3,10 @@
 > By the end of this module, you will know what cloud computing can be used for, how to enable a cloud API, and how to navigate the cloud shell.
 
 > Module videos:
+> * [Cloud Shell - Long Running Tasks [6:48]](https://youtu.be/nWK1leQHoj0)
+> * [Google Colab Demo (VQGAN+CLIP) [6:26]](https://youtu.be/1EeoZvJyH0I)
 > * [Cloud Infrastructure [11:53]](https://youtu.be/0fQOztcte-4)
+> * [Cloud Shell - Build Tools [5:43]](https://youtu.be/jWA5sBWznqY)
 > * [Using the Cloud Shell Pt. 1/2 [11:38]](https://youtu.be/8UkNo5_61Ws)
 > * [Using the Cloud Shell Pt. 2/2 [16:07]](https://youtu.be/jZxT-qqBUlA)
 > * [Cloud Free Tiers [8:51]](https://youtu.be/2Fp6GDETmz8)
