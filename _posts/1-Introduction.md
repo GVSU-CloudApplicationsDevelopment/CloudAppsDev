@@ -141,6 +141,8 @@ Hey, we'll do a term project too!  You should start thinking early about the typ
 
 At present, you should be able to flip through all the topics we'll be going through.  Perhaps you want to make the next great scheduling application, or the world's best browser-based MMO, or even a Zoom usurper.  You have access to the *entirety* of Google Cloud at your disposal here, so feel free to have fun with it!  What I am looking for are **attainable** proofs-of-concept, not necessarily fully-polished and production-ready applications.  It should demonstrate your experience and knowledged gained throughout the semester.  There will be requirements for the number of separate services to include, however you need your grand idea to get started.  
 
+Around the middle of the semester I'll ask you for a proposal.  Expect this to be a term project *lite* where it comprises the efforts of 2-3 assignments.  You have a lot to do this semester so I don't necessarily want that project taking over.  However, if you want to go nuts and make something incredible feel free to use the time and credits for the next paradigm-shifting cloud app!
+
 ## Google Cloud Account Setup (Lab)
 
 > Module Video: <a href="https://youtu.be/IImFXvMWzM8" target="_blank">Lab 1 Overview (Setup / Virtual Machines) [21:31]</a>
