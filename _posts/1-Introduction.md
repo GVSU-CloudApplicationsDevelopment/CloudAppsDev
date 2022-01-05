@@ -6,7 +6,10 @@ Welcome to Cloud Application Development!  This module will introduce you to the
 
 > Module videos:
 > * [Google - What is the cloud? [42:36]](https://www.youtube.com/watch?v=JtUIQz_EkUw)
+> * [Welcome to Class!  [15:32]](https://youtu.be/zuT-vmJzw3k)
+> * [Plagiarism/Cheating Note  [3:48]](https://youtu.be/N5UO2xXnzYk)
 > * [Intro to the Cloud [8:14]](https://youtu.be/AtRZiBrxKnI)
+> * [Term Project Ideas [6:19]](https://youtu.be/8YRF9BsoSvY)
 > * [Cloud Billing [8:24]](https://youtu.be/V4hIVODKm20)
 > * [Cloud Computing Costs [14:40]](https://youtu.be/huFVLTuPbrs)
 > * [Cloud Providers [7:46]](https://youtu.be/NvYXa7RM658)
