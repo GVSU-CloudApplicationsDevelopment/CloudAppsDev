@@ -11,6 +11,7 @@
 > * [Using the Cloud Shell Pt. 2/2 [16:07]](https://youtu.be/jZxT-qqBUlA)
 > * [Cloud Free Tiers [8:51]](https://youtu.be/2Fp6GDETmz8)
 > * [Editing and Uploading [11:05]](https://youtu.be/yXtSev26ykw)
+
 <!-- 
 
 > Module labs:

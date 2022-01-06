@@ -4,6 +4,7 @@
 > * [Overview of geographic concerns [10:18]](https://youtu.be/NXLX4nIfEkQ)
 > * [Load Balancing Demo (1/2) [10:38]](https://youtu.be/oawtW7W_T9U)
 > * [Load Balancing Demo (2/2) [10:59]](https://youtu.be/NjX1B5eOqic)
+> * [(Google) GCP regions and zones [1:59]](https://www.youtube.com/watch?v=ieQ6l29Qqe4)
 
 <!-- > Module labs:
 > * Nothing due here!  Try out the load balancing lab later on though if you have spare time! -->
@@ -50,7 +51,7 @@ Let's take a look at the big three in terms of regional availability.  *Note tha
 
 [AWS Regions](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
 
-<img src="https://azurecomcdn.azureedge.net/cvt-501c9a38819bd9ffc1ed855f2ed8b5db5e8936aed3e3a6732ff13f313a6c0ca4/images/shared/regions-map-desktop.svg" alt="Microsoft Azure Regions" title="Microsoft Azure Regions" style="background-color:#fff" />
+<img src="https://docs.microsoft.com/en-us/azure/availability-zones/media/availability-zones-region-geography.png" alt="Microsoft Azure Regions" title="Microsoft Azure Regions" style="background-color:#fff" />
 
 > Figure 4: Microsoft Azure Regions
 
