@@ -5,6 +5,8 @@ excerpt:
         <p>This module will introduce you to some of the various technologies that are available to you as part of cloud computing.</p>
         <h2>Module Videos</h2>
         <ul>
+        <li><a href="https://youtu.be/nWK1leQHoj0" target="_blank">Cloud Shell - Long Running Tasks [6:48]</a></li>
+        <li><a href="https://youtu.be/1EeoZvJyH0I" target="_blank">Google Colab Demo (VQGAN+CLIP) [6:26]</a></li>
         <li><a href="https://youtu.be/0fQOztcte-4" target="_blank">Cloud Infrastructure [11:53]</a></li>
         <li><a href="https://youtu.be/8UkNo5_61Ws" target="_blank">Using the Cloud Shell Pt. 1/2 [11:38]</a></li>
         <li><a href="https://youtu.be/jZxT-qqBUlA" target="_blank">Using the Cloud Shell Pt. 2/2 [16:07]</a></li>

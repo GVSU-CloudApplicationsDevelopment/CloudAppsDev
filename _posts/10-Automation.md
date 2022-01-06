@@ -4,6 +4,7 @@
 > * [Automation Overview [11:32]](https://youtu.be/TOmJ7tr9phY)
 > * [Cloud Build/Run Demo [14:20]](https://youtu.be/VgPF8TKY-BA)
 > * [Overview of Cloud Monitoring/Logging/Error Reporting [16:59]](https://youtu.be/muOUkOXxZv8)
+> * [(Google Video) How to Find Cloud Logs and Manage Logging Costs [6:29]](https://www.youtube.com/watch?v=z6hpL8J-jG4)
 
 > Module labs:
 > * Term project proposal (see Blackboard)

@@ -9,6 +9,7 @@ excerpt:
           <li><a href="https://youtu.be/TOmJ7tr9phY" target="_blank">Automation Overview [11:32]</a></li>
           <li><a href="https://youtu.be/VgPF8TKY-BA" target="_blank">Cloud Build/Run Demo [14:20]</a></li>
           <li><a href="https://youtu.be/muOUkOXxZv8" target="_blank">Overview of Cloud Monitoring/Logging/Error Reporting [16:59]</a></li>
+          <li><a href="https://www.youtube.com/watch?v=z6hpL8J-jG4" target="_blank">(Google Video) How to Find Cloud Logs and Manage Logging Costs [6:29]</a></li>
         </ul>
         <h2>Module Labs</h2>
         <ul>
