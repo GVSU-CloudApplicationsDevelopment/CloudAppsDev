@@ -5,6 +5,7 @@
 > * [Cloud Encryption Overview + IAM + Roles [14:42]](https://youtu.be/V-Zu1mRQlFI)
 > * [Cloud IAM Demo [13:13]](https://youtu.be/p0H0Z1xNWks)
 > * [Cloud KMS Codelabs Demo [8:20]](https://youtu.be/fEoL3pcJySc)
+> * [(Google) How to Secure your Cloud Environment [5:50]](https://www.youtube.com/watch?v=MHtg2Au78LI)
 
 <!-- > Module labs:
 > * [Qwiklabs Quest - Security and Identity Fundamentals [40 credits]](https://www.qwiklabs.com/quests/40) -->
@@ -198,11 +199,11 @@ Let's talk about some best practices now.  Note that these are provided by Googl
 
 These steps follow guidelines similar to what is seem in common system administration practices.  Ensure that you sandbox your environments as necessary, grouping those that may share a trust boundary (Step 1).  Ensure that each resource has the correct policies (i.e., inheritance) applied (Step 2).  Ensure that resources only have the privileges necessary to do their job -- don't go above and beyond (Step 3).  Lastly, ensure policies are routinely audited to ensure they and their memberships are still valid, using logs and audit memberships (Steps 4 and 5).
 
-One other point, generally it is better to grant roles to groups rather than individual users, as users may come and go and cause a maintenance nightmare.  Better to assign roles to groups and then add/remove users to those groups as necessary!  Figure X (c/o Google) shows this process:
+One other point, generally it is better to grant roles to groups rather than individual users, as users may come and go and cause a maintenance nightmare.  Better to assign roles to groups and then add/remove users to those groups as necessary!  Figure 15 (c/o Google) shows this process:
 
 ![Group-Based Role](/CloudAppsDev/assets/images/8-gc-grouprole.png "Group-Based Role")
 
-> Figure X: Group-Based Role
+> Figure 15: Group-Based Role
 
 ### Service Accounts
 

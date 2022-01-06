@@ -5,6 +5,7 @@
 * [Cloud Networking Basics [11:30]](https://youtu.be/-pBJH6ObSgM)
 * [VPC Networks and Firewalls [20:01] (1/2)](https://youtu.be/hxr3eUpP2Zk)
 * [VPC Networks and Firewalls [12:55] (2/2)](https://youtu.be/-HZgkYYM_mE)
+* [(Google) Migrating to GCP? First Things First: VPCs [7:25]](https://www.youtube.com/watch?v=cNb7xKyya5c)
 
 <!-- > Module labs:
 
@@ -27,6 +28,7 @@ Here are a few videos to get you up and running, covering the basics of cloud ne
 > * Module video: [Cloud Networking Basics [11:30]](https://youtu.be/-pBJH6ObSgM)
 > * Module video: [VPC Networks and Firewalls [20:01] (1/2)](https://youtu.be/hxr3eUpP2Zk)
 > * Module video: [VPC Networks and Firewalls [12:55] (2/2)](https://youtu.be/-HZgkYYM_mE)
+> * Module video: [(Google) Migrating to GCP? First Things First: VPCs [7:25]](https://www.youtube.com/watch?v=cNb7xKyya5c)
 
 ## Networking Background
 
