@@ -15,7 +15,7 @@ excerpt:
           <li><a href="https://youtu.be/gUXSSpsvARg" target="_blank">Monolithic-Microlithic Demo Pt 2 [18:19]</a></li>
           <li><a href="https://youtu.be/P_hvBGdrTqQ" target="_blank">Monolithic-Microlithic Demo Pt 3 [19:01]</a></li>
         </ul>
-        <h2>Module Labs</h2>
+        # <h2>Module Labs</h2>
 ---  
 
 {% include_relative 4-DesigningApps.md %}

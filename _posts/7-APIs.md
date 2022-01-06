@@ -8,9 +8,9 @@
 * [Cloud Endpoints Demo (1/2) [14:50]](https://youtu.be/72ZHdM0NNr8)
 * [Cloud Endpoints Demo (2/2) [20:19]](https://youtu.be/e5YMOEd68YQ)
 
-> Module labs:
+<!-- > Module labs:
 > * [Build a simple RESTful API (see Blackboard for manual)](https://codelabs.developers.google.com/codelabs/cloud-springboot-cloudshell)
-> * [Qwiklab - Cloud Endpoints: Qwik Start (GSP164) [1 credit]](https://www.qwiklabs.com/focuses/767?parent=catalog)
+> * [Qwiklab - Cloud Endpoints: Qwik Start (GSP164) [1 credit]](https://www.qwiklabs.com/focuses/767?parent=catalog) -->
 
 ## Let's be RESTful
 

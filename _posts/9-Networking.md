@@ -6,12 +6,12 @@
 * [VPC Networks and Firewalls [20:01] (1/2)](https://youtu.be/hxr3eUpP2Zk)
 * [VPC Networks and Firewalls [12:55] (2/2)](https://youtu.be/-HZgkYYM_mE)
 
-> Module labs:
+<!-- > Module labs:
 
 * Lab 1: [QwikLabs - Multiple VPC Networks (GSP211) [7 credits]](https://run.qwiklabs.com/focuses/1230?parent=catalog)
 * Lab 2: [QwikLabs - VPC Networks: Controlling Access (GSP213) [7 credits]](https://run.qwiklabs.com/focuses/1231?parent=catalog)
 * Lab 3: [QwikLabs - HTTP Load Balancer with Cloud Armor (GSP215) [7 credits]](https://run.qwiklabs.com/focuses/1232?parent=catalog)
-* Lab 4: [QwikLabs - Create an Internal Load Balancer (GSP216) [7 credits]](https://run.qwiklabs.com/focuses/1250?parent=catalog)
+* Lab 4: [QwikLabs - Create an Internal Load Balancer (GSP216) [7 credits]](https://run.qwiklabs.com/focuses/1250?parent=catalog) -->
 
 
 ## Cloud Networking

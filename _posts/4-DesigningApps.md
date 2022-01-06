@@ -10,9 +10,9 @@
 > * [Monolithic-Microlithic Demo Pt 2 [18:19]](https://youtu.be/gUXSSpsvARg)
 > * [Monolithic-Microlithic Demo Pt 3 [19:01]](https://youtu.be/P_hvBGdrTqQ)
 
-> Module labs:
+<!-- > Module labs:
 > * Blackboard - Monolithic to Microservices
-> * Extra credit opportunity - App Engine 
+> * Extra credit opportunity - App Engine  -->
 
 ## Cloud Applications
 

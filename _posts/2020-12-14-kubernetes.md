@@ -13,10 +13,10 @@ excerpt:
           <li><a href="https://youtu.be/kYUUEvBT4Ms" target="_blank">Building a SlackBot with Cloud Build, Cloud Run, and Node.js Part 1 [13:20]</a></li>
           <li><a href="https://youtu.be/xpPTR05Bxdc" target="_blank">Building a SlackBot with Cloud Build, Cloud Run, and Node.js Part 2 [19:09]</a></li>
         </ul>
-        <h2>Module Labs</h2>
-        <ul>
-          <li><a href="https://www.qwiklabs.com/quests/29" target="_blank">Qwiklabs - Kubernetes in Google Cloud Quest [25 credits]</a></li>
-        </ul>
+        # <h2>Module Labs</h2>
+        # <ul>
+        #   <li><a href="https://www.qwiklabs.com/quests/29" target="_blank">Qwiklabs - Kubernetes in Google Cloud Quest [25 credits]</a></li>
+        # </ul>
 ---  
 
 {% include_relative 13-Kubernetes.md %}

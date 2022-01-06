@@ -6,9 +6,9 @@
 > * [Overview of Cloud Monitoring/Logging/Error Reporting [16:59]](https://youtu.be/muOUkOXxZv8)
 > * [(Google Video) How to Find Cloud Logs and Manage Logging Costs [6:29]](https://www.youtube.com/watch?v=z6hpL8J-jG4)
 
-> Module labs:
+<!-- > Module labs:
 > * Term project proposal (see Blackboard)
-> * [QwikLabs - Monitoring and Logging for Cloud Functions [5 credits]](https://www.qwiklabs.com/focuses/1833?parent=catalog)
+> * [QwikLabs - Monitoring and Logging for Cloud Functions [5 credits]](https://www.qwiklabs.com/focuses/1833?parent=catalog) -->
 
 ## Cloud Automation
 

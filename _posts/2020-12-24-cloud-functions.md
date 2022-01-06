@@ -12,10 +12,10 @@ excerpt:
           <li><a href="https://youtu.be/hs5f3sIg69o" target="_blank">Cloud Functions Authentication Demo [11:59]</a></li>
           <li><a href="https://youtu.be/TkF07-_H3wA" target="_blank">Calling Cloud Functions from Python (with multiprocessing and requests) [7:36]</a></li>
         </ul>
-        <h2>Module Labs</h2>
-        <ul>
-          <li><a href="https://codelabs.developers.google.com/codelabs/cloud-function-logs-traces" target="_blank">CodeLab -- Stackdriver Logging and Stackdriver Trace for Cloud Functions</a></li>
-        </ul>
+        # <h2>Module Labs</h2>
+        # <ul>
+        #   <li><a href="https://codelabs.developers.google.com/codelabs/cloud-function-logs-traces" target="_blank">CodeLab -- Stackdriver Logging and Stackdriver Trace for Cloud Functions</a></li>
+        # </ul>
 ---  
 
 {% include_relative 3-ServerlessTechnologies.md %}

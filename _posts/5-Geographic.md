@@ -5,8 +5,8 @@
 > * [Load Balancing Demo (1/2) [10:38]](https://youtu.be/oawtW7W_T9U)
 > * [Load Balancing Demo (2/2) [10:59]](https://youtu.be/NjX1B5eOqic)
 
-> Module labs:
-> * Nothing due here!  Try out the load balancing lab later on though if you have spare time!
+<!-- > Module labs:
+> * Nothing due here!  Try out the load balancing lab later on though if you have spare time! -->
 
 ## Geographic Concerns
 

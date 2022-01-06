@@ -18,11 +18,11 @@ excerpt:
           <li><a href="https://youtu.be/PEjyIlvl-88" target="_blank">Lab Environments [8:36]</a></li>
         </ul>
 
-        <h2>Module Labs</h2>
-        <ul>
-          <li>Getting to know you (Internal to Blackboard)</li>
-          <li><a href="https://efredericks.github.io/CloudAppsDev/codelabs/CIS680-Lab1-Setup" target="_blank">Lab 1 - Intro to Google Cloud</a></li>
-        </ul>
+        # <h2>Module Labs</h2>
+        # <ul>
+        #   <li>Getting to know you (Internal to Blackboard)</li>
+        #   <li><a href="https://efredericks.github.io/CloudAppsDev/codelabs/CIS680-Lab1-Setup" target="_blank">Lab 1 - Intro to Google Cloud</a></li>
+        # </ul>
 ---  
 
 <!--more-->

@@ -9,10 +9,10 @@
 > * [Cloud Datastore Demo [13:39]](https://youtu.be/y9T9Xm7oge0)
 > * [Cloud Spanner Demo [10:56]](https://youtu.be/1r7rY6BKmUY)
 
-> Module labs:
+<!-- > Module labs:
 > * [Bigtable: Qwik Start - Command Line [1 credit]](https://www.qwiklabs.com/focuses/579?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=9414783)
 > * [Bigtable: Qwik Start - Hbase Shell [1 credit]](https://www.qwiklabs.com/focuses/580?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=9414776)
-> * Synthesis -- See Blackboard
+> * Synthesis -- See Blackboard -->
 
 Inevitably, you'll be wanting to "store" things up in the cloud.
 

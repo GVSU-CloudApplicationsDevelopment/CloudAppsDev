@@ -6,11 +6,11 @@
 > * [Cloud Tasks Demo [19:55]](https://youtu.be/UHDp8J3enAA)
 > * [Quantum Computing Infrastructure [17:40]](https://youtu.be/uqbCVHsgRgY)
 > * [Course Wrapup [3:35]](https://youtu.be/2hfLsKYD8I8)
-
+<!-- 
 > Module labs:
 > * [Cloud Scheduler Quick Start (see Blackboard)](https://cloud.google.com/scheduler/docs/quickstart)
 > * [Cloud Tasks Quick Start (see Blackboard)](https://cloud.google.com/tasks/docs/quickstart)
-> * Wrap up your term projects!
+> * Wrap up your term projects! -->
 
 ## Cloud Scheduler
 

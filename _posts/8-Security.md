@@ -6,8 +6,8 @@
 > * [Cloud IAM Demo [13:13]](https://youtu.be/p0H0Z1xNWks)
 > * [Cloud KMS Codelabs Demo [8:20]](https://youtu.be/fEoL3pcJySc)
 
-> Module labs:
-> * [Qwiklabs Quest - Security and Identity Fundamentals [40 credits]](https://www.qwiklabs.com/quests/40)
+<!-- > Module labs:
+> * [Qwiklabs Quest - Security and Identity Fundamentals [40 credits]](https://www.qwiklabs.com/quests/40) -->
 
 ## Cloud Security
 

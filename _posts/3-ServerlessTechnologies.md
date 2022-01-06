@@ -9,8 +9,8 @@
 > * [Cloud Functions Authentication Demo [11:59]](https://youtu.be/hs5f3sIg69o)
 > * [Calling Cloud Functions from Python (with multiprocessing and requests) [7:36]](https://youtu.be/TkF07-_H3wA)
 
-> Module labs:
-> * [CodeLab -- Stackdriver Logging and Stackdriver Trace for Cloud Functions](https://codelabs.developers.google.com/codelabs/cloud-function-logs-traces)
+<!-- > Module labs:
+> * [CodeLab -- Stackdriver Logging and Stackdriver Trace for Cloud Functions](https://codelabs.developers.google.com/codelabs/cloud-function-logs-traces) -->
 
 ***
 

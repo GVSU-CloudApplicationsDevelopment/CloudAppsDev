@@ -11,6 +11,15 @@
 > * [Using the Cloud Shell Pt. 2/2 [16:07]](https://youtu.be/jZxT-qqBUlA)
 > * [Cloud Free Tiers [8:51]](https://youtu.be/2Fp6GDETmz8)
 > * [Editing and Uploading [11:05]](https://youtu.be/yXtSev26ykw)
+<!-- 
+
+> Module labs:
+> * Qwiklabs Email Address (Internal to Blackboard)
+> * Getting to Know You (Internal to Blackboard)
+> * Describe Five Services (Internal to Blackboard)
+> * [Codelab: Getting Started with Cloud Shell and gcloud](https://codelabs.developers.google.com/codelabs/cloud-shell/)
+> * [Codelab: Load and Query Data with the bq command-line tool for BigQuery](https://codelabs.developers.google.com/codelabs/bigquery-cli)
+> * [Codelab: Autoscaling](https://codelabs.developers.google.com/codelabs/cloud-webapp-hosting-gce) -->
 
 ***
 

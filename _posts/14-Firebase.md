@@ -8,9 +8,9 @@
 * [[External] What is Firebase [21:44]](https://www.youtube.com/watch?v=9kRgVxULbag)
 * [[External] Cloud Functions for Firebase [2:22]](https://www.youtube.com/watch?v=vr0Gfvp5v1A)
 
-> Module labs:
+<!-- > Module labs:
 
-* [Qwiklabs - Build Apps & Websites with Firebase [20 credits]](https://www.qwiklabs.com/quests/148)
+* [Qwiklabs - Build Apps & Websites with Firebase [20 credits]](https://www.qwiklabs.com/quests/148) -->
 
 ## Firebase
 

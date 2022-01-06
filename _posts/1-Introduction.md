@@ -15,10 +15,10 @@ Welcome to Cloud Application Development!  This module will introduce you to the
 > * [Cloud Providers [7:46]](https://youtu.be/NvYXa7RM658)
 > * [Lab 1 Overview (Setup / Virtual Machines) [21:31]](https://youtu.be/IImFXvMWzM8)
 > * [Lab Environments [8:36]](https://youtu.be/PEjyIlvl-88)
-
+<!-- 
 > Module labs:
 > * Getting to know you (Internal to Blackboard)
-> * [CIS680 Lab 1 - Intro. to Google Cloud](https://gvsu-cloudapplicationsdevelopment.github.io/CloudAppsDev/codelabs/CIS680-Lab1-Setup/)
+> * [CIS680 Lab 1 - Intro. to Google Cloud](https://gvsu-cloudapplicationsdevelopment.github.io/CloudAppsDev/codelabs/CIS680-Lab1-Setup/) -->
 
 *** 
 

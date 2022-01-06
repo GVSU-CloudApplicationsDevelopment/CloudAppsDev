@@ -7,7 +7,7 @@
 > * [Dataproc/Spark Demo [17:10] (2/2)](https://youtu.be/ID0SVlWoClc)
 > * [Composer/Airflow/Hadoop Demo [30:28]](https://youtu.be/MS_YjES660M)
 
-> Module labs:
+<!-- > Module labs:
 
 **Pick one**:
 
@@ -20,7 +20,7 @@
 * [Processing Data with Dataflow](https://www.qwiklabs.com/focuses/1159?parent=catalog)
 
 **And lastly**:
-* [QwikLabs - Dataprep: Qwik Start](https://google.qwiklabs.com/focuses/111?parent=catalog)
+* [QwikLabs - Dataprep: Qwik Start](https://google.qwiklabs.com/focuses/111?parent=catalog) -->
 
 ## Data (More Specifically - of the Big Variety)
 
