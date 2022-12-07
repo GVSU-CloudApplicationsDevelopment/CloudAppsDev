@@ -7,7 +7,7 @@ excerpt:
         <h2>Module Videos</h2>
         <ul>
           <li><a href="https://www.youtube.com/watch?v=JtUIQz_EkUw" target="_blank">Google - What is the cloud? [42:36]</a></li>
-          <li><a href="https://youtu.be/zuT-vmJzw3k" target="_blank">Welcome to Class!  [15:32]</a></li>
+          <li><a href="https://youtu.be/fP1rcDuFrCQ" target="_blank">Welcome to Class!  [12:07]</a></li>
           <li><a href="https://youtu.be/N5UO2xXnzYk" target="_blank">Plagiarism/Cheating Note  [3:48]</a></li>
           <li><a href="https://youtu.be/AtRZiBrxKnI" target="_blank">Intro to the Cloud [8:14]</a></li>
           <li><a href="https://youtu.be/8YRF9BsoSvY" target="_blank">Term Project Ideas [6:19]</a></li>

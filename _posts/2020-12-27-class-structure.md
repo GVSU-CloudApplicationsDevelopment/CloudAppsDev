@@ -3,7 +3,7 @@ title: Course Overview
 excerpt: 
         <p>This course comprises fifteen weeks.  Each post on this page covers a week's worth of material.  The post list (this page) shows a quick preview of the things you need to do each week (module videos, assignments, etc.).  Clicking 'More' will take you to the blog post for each module (these posts are intended to replace slides).  Ensure you monitor Blackboard for assignment deadlines!</p>
 
-        <p><a href="https://youtu.be/-VC4PYxvNm8" target="_blank">Welcome video [10:07]</a></p>
+        <p><a href="https://youtu.be/fP1rcDuFrCQ" target="_blank">Welcome video [12:07]</a></p>
 
         <h2>Useful links</h2>
         <ul>
