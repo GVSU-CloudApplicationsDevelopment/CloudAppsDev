@@ -13,6 +13,7 @@ excerpt:
           <li><a href="https://youtu.be/8YRF9BsoSvY" target="_blank">Term Project Ideas [6:19]</a></li>
           <li><a href="https://youtu.be/V4hIVODKm20" target="_blank">Cloud Billing [8:24]</a></li>
           <li><a href="https://youtu.be/huFVLTuPbrs" target="_blank">Cloud Computing Costs [14:40]</a></li>
+          <li><a href="https://youtu.be/Lud87ry1lx8" target="_blank">Export Billing to BigQuery [12:53]</a></li>
           <li><a href="https://youtu.be/NvYXa7RM658" target="_blank">Cloud Providers [7:46]</a></li>
           <li><a href="https://youtu.be/IImFXvMWzM8" target="_blank">Lab 1 Overview (Setup / Virtual Machines) [21:31]</a></li>
           <li><a href="https://youtu.be/PEjyIlvl-88" target="_blank">Lab Environments [8:36]</a></li>

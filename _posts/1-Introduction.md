@@ -12,6 +12,7 @@ Welcome to Cloud Application Development!  This module will introduce you to the
 > * [Term Project Ideas [6:19]](https://youtu.be/8YRF9BsoSvY)
 > * [Cloud Billing [8:24]](https://youtu.be/V4hIVODKm20)
 > * [Cloud Computing Costs [14:40]](https://youtu.be/huFVLTuPbrs)
+> * [Export Billing to BigQuery [12:53]](https://youtu.be/Lud87ry1lx8)
 > * [Cloud Providers [7:46]](https://youtu.be/NvYXa7RM658)
 > * [Lab 1 Overview (Setup / Virtual Machines) [21:31]](https://youtu.be/IImFXvMWzM8)
 > * [Lab Environments [8:36]](https://youtu.be/PEjyIlvl-88)
@@ -56,6 +57,8 @@ Elasticity is another cloud feature, meaning that you can easily scale upwards a
 > Module Video: <a href="https://youtu.be/V4hIVODKm20" target="_blank">Cloud Billing [8:24]</a>
 
 > Module Video: <a href="https://youtu.be/huFVLTuPbrs" target="_blank">Cloud Computing Costs [14:40]</a>
+
+> Module Video: <a href="https://youtu.be/Lud87ry1lx8" target="_blank">Export Billing to BigQuery [12:53]</a>
 
 The most important concept to understand about cloud computing is that it is **not** free.  Each moment a virtual machine is on, each API call, each image access in a storage bucket will cost money.  
 
