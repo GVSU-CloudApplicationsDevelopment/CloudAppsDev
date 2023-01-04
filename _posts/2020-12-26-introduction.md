@@ -17,6 +17,7 @@ excerpt:
           <li><a href="https://youtu.be/NvYXa7RM658" target="_blank">Cloud Providers [7:46]</a></li>
           <li><a href="https://youtu.be/IImFXvMWzM8" target="_blank">Lab 1 Overview (Setup / Virtual Machines) [21:31]</a></li>
           <li><a href="https://youtu.be/PEjyIlvl-88" target="_blank">Lab Environments [8:36]</a></li>
+          <li><a href="https://youtu.be/Mck8pd1Hw4Q" target="_blank">General Reference for Cloud Tools I Use (Vim, Nano, tmux) [40:40]</a></li>
         </ul>
 
         # <h2>Module Labs</h2>

@@ -16,6 +16,7 @@ Welcome to Cloud Application Development!  This module will introduce you to the
 > * [Cloud Providers [7:46]](https://youtu.be/NvYXa7RM658)
 > * [Lab 1 Overview (Setup / Virtual Machines) [21:31]](https://youtu.be/IImFXvMWzM8)
 > * [Lab Environments [8:36]](https://youtu.be/PEjyIlvl-88)
+> * [General Reference for Cloud Tools I Use (Vim, Nano, tmux) [40:40]](https://youtu.be/Mck8pd1Hw4Q)
 
 <!-- 
 > Module labs:
