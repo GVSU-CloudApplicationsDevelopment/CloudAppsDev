@@ -3,6 +3,7 @@
 > Module videos:
 > * [Automation Overview [11:32]](https://youtu.be/TOmJ7tr9phY)
 > * [Cloud Build/Run Demo [14:20]](https://youtu.be/VgPF8TKY-BA)
+> * [Cloud Run Jobs Demo [35:22]](https://youtu.be/nhYGAPkfauU)
 > * [Overview of Cloud Monitoring/Logging/Error Reporting [16:59]](https://youtu.be/muOUkOXxZv8)
 > * [(Google Video) How to Find Cloud Logs and Manage Logging Costs [6:29]](https://www.youtube.com/watch?v=z6hpL8J-jG4)
 
@@ -71,6 +72,14 @@ First things first, here's a demo running through how we can use Cloud Build and
 > * Module video: [Cloud Build/Run Demo [14:20]](https://youtu.be/VgPF8TKY-BA)
 > * [Codelab](https://codelabs.developers.google.com/codelabs/cloud-run-deploy/)
 > * [Concurrency](https://cloud.google.com/run/docs/about-concurrency)
+
+And here's another one checking out Cloud Run Jobs (a way to schedule your containerized application executions!):
+
+> * [Cloud Run Jobs Demo [35:22]](https://youtu.be/nhYGAPkfauU)
+> * [Codelab](https://codelabs.developers.google.com/codelabs/cloud-starting-cloudrun-jobs)
+
+*Note - ensure you checkout the cleanup instructions in the video description!*
+
 
 We'll now go into what these tools do for you, however they effectively provide insights into your various services, deployments, containers, etc.
 
