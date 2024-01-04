@@ -3,11 +3,11 @@ title: Course Overview
 excerpt: 
         <p>This course comprises fifteen weeks.  Each post on this page covers a week's worth of material.  The post list (this page) shows a quick preview of the things you need to do each week (module videos, assignments, etc.).  Clicking 'More' will take you to the blog post for each module (these posts are intended to replace slides).  Ensure you monitor Blackboard for assignment deadlines!</p>
 
-        <p><a href="https://youtu.be/fP1rcDuFrCQ" target="_blank">Welcome video [12:07]</a></p>
+        <p><a href="https://youtu.be/nUlyCDWsG_c" target="_blank">Welcome video [20:03]</a></p>
 
         <h2>Useful links</h2>
         <ul>
-        <li><a href="https://www.youtube.com/playlist?list=PLKl241YUM7mwJi8dcPCpDle9Xhc0gi2XM" target="_blank">Course YouTube Playlist</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLKl241YUM7mzmJjh9DYsbHJ68V34oIhzc" target="_blank">Course YouTube Playlist</a></li>
         <li><a href="https://console.cloud.google.com" target="_blank">Google Cloud</a></li>
         <li><a href="https://codelabs.developers.google.com/" target="_blank">All Google Codelabs</a>
         </ul>
