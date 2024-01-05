@@ -97,7 +97,7 @@ One other consideration for automation is that you can incorporate both [monitor
 
 What is "state?"  State is the configured state of your application, the user data that has been entered, which jobs are running with which parameters, the number of instances of a Cloud Function, etc.  The main consideration here is that you should endeavor to design [*state-less* applications/services](https://cloud.google.com/solutions/best-practices-for-operating-containers#immutability).  What is state-less?  It is an object that is immutable and can run regardless of state.  Effectively, it can be automated, copied, scaled, etc., without any consideration for the data.  Figure 2 demonstrates an example of containerizing with Docker.  We'll get to containers later, but look at the figure.  The Deployments (Pods A-D) are state-less, immutable objects.  Their purpose is to accept data and execute ... nothing configurable is directly codified!  It is passed in as a parameter and then acted upon.
 
-![Container example](/assets/images/4-containers.svg "Container Example")
+![Container example](/CloudAppsDev/assets/images/4-containers.svg "Container Example")
 
 > Figure 2: Container Example
 
