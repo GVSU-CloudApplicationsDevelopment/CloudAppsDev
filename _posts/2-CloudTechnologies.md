@@ -104,7 +104,7 @@ To use Autoscaling, you require a *policy* to specify *how* scaling should work.
 
 Ah, the Internet of Things (IoT), what may be considered to be the latest in moving infrastructure up to the cloud.  All of the tiny networked devices that we have available (smart watches, sensors, monitors, etc.) have been turned into a cloud service as well.  However, the devices themselves are not necessarily made into a virtual infrastructure service.  The *telemetry* being sent between devices has been cloudified, turning this topic into something that falls between IaaS and PaaS (at least, to me).
 
-There are multiple components available, however at its core you are transmitting, analyzing, and receiving the data between devices.  This particular page lists out the highlights of [Google Cloud IoT](https://cloud.google.com/solutions/iot/).  Note that competing providers have similar services as well!
+There are multiple components available, however at its core you are transmitting, analyzing, and receiving the data between devices.  This particular page lists out the highlights of [Google Cloud IoT](https://cloud.google.com/iot-core).  Note that competing providers have similar services as well!
 
 <img src="https://cloudx-bricks-prod-bucket.storage.googleapis.com/ad81a1c799604fe7c34dc27efe14fededcf49a419b466d05d208066df626bd56.svg" alt="Google Cloud IoT Technologies"  title="Google Cloud IoT Technologies" style="background-color:#fff" />
 
@@ -182,7 +182,7 @@ One thing you will be doing often in this course is writing/updatining files wit
 This is a slight aside but I wanted to clarify the difference between these three "lab-ish" technologies we'll be mainly using.  You already have experience with Codelabs already if you did the VM setup assignment, however...
 
 * [Codelabs](https://codelabs.developers.google.com/)
-* [Quiklabs](https://www.qwiklabs.com/)
+* [Qwiklabs](https://www.qwiklabs.com/)
 * [Colabs](https://colab.research.google.com/)
 
 Codelabs are tutorial-style manuals that walk you through a task.  These can be developed by anybody (and the [tools for doing so have been made open source](https://github.com/googlecodelabs/tools)) and focus on a particular topic.  We will be using a lot of these for our assignments.  Of note is that these are **free** to participate in.
