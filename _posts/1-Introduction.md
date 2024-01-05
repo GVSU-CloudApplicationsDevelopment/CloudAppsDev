@@ -165,7 +165,7 @@ Click here for your first lab: [CIS655 Lab 1 - Intro. to Google Cloud](https://g
   * [Free credits via Google](https://cloud.google.com/free)
 * [Amazon Web Services (AWS)](https://aws.amazon.com/)
 * [Microsoft Azure](https://azure.microsoft.com/)
-> [Google Cloud vs AWS vs Azure](https://medium.com/weekly-webtips/google-cloud-vs-aws-vs-azure-bafb554e036)
+* [What's the Difference Between AWS vs. Azure vs. Google Cloud?](https://www.coursera.org/articles/aws-vs-azure-vs-google-cloud)
 
 ---
 
