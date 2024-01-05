@@ -41,7 +41,7 @@ The following image shows off some quick guides for various platforms.  Note tha
 
 ### Firebase Features
 
-Let's take a look at a couple of commonly-used features.  [This article](https://howtofirebase.com/what-is-firebase-fcb8614ba442) provides a helpful source to dip into it (plus, there's a video covering it as well).
+Let's take a look at a couple of commonly-used features.  [This article](https://www.makeuseof.com/what-is-google-firebase-why-use-it/) provides a helpful source to dip into it.
 
 **Hosting**
 
@@ -161,7 +161,7 @@ Homework here!  This will walk you through all the various facets of Firebase!
 * [Firebase and Google Cloud](https://firebase.google.com/firebase-and-gcp/)
 * [Introduction to Firebase](https://hackernoon.com/introduction-to-firebase-218a23186cd7)
 * [Firebase - Introduction](https://www.geeksforgeeks.org/firebase-introduction/)
-* [What is Firebase?](https://howtofirebase.com/what-is-firebase-fcb8614ba442)
+* [What is Firebase?](https://www.makeuseof.com/what-is-google-firebase-why-use-it/)
 * [Multi-Tenant Applications with Firebase and Google Cloud](https://medium.com/firebase-developers/multi-tenant-applications-with-firebase-and-google-cloud-4d0d02b7d859)
 * [Google Guide](https://cloud.google.com/build/docs/deploying-builds/deploy-firebase)
 * [Firebase Tips and Tricks](https://medium.com/firebase-tips-tricks/how-to-use-cloud-firestore-in-flutter-9ea80593ca40)
