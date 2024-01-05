@@ -97,7 +97,7 @@ One other consideration for automation is that you can incorporate both [monitor
 
 What is "state?"  State is the configured state of your application, the user data that has been entered, which jobs are running with which parameters, the number of instances of a Cloud Function, etc.  The main consideration here is that you should endeavor to design [*state-less* applications/services](https://cloud.google.com/solutions/best-practices-for-operating-containers#immutability).  What is state-less?  It is an object that is immutable and can run regardless of state.  Effectively, it can be automated, copied, scaled, etc., without any consideration for the data.  Figure 2 demonstrates an example of containerizing with Docker.  We'll get to containers later, but look at the figure.  The Deployments (Pods A-D) are state-less, immutable objects.  Their purpose is to accept data and execute ... nothing configurable is directly codified!  It is passed in as a parameter and then acted upon.
 
-![Container example](https://cloud.google.com/solutions/images/bp-operating-containers-configmap.svg "Container Example")
+![Container example](/assets/images/4-containers.svg "Container Example")
 
 > Figure 2: Container Example
 
@@ -201,7 +201,7 @@ If you want to see it in action, I went through the Codelab steps in the followi
 ## Additional Resources
 
 * [Google Cloud - 5 Principles for Cloud-Native Architecture](https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it)
-* [5 Steps to Building a Cloud-Ready Application Architecture](https://www.cloudtp.com/doppler/5-steps-building-cloud-ready-application-architecture/)
+* [5 Steps to Building a Cloud-Ready Application Architecture](https://techbeacon.com/enterprise-it/5-steps-building-cloud-ready-application-architecture)
 * [The Ultimate 9 Step Strategy For Building Cloud Applications](https://arkenea.com/blog/building-cloud-applications/)
 * [Microservices Architecture on Google App Engine](https://cloud.google.com/appengine/docs/standard/python/microservices-on-app-engine)
 * [Microservice Performance Optimization](https://cloud.google.com/appengine/docs/standard/python/microservice-performance)
