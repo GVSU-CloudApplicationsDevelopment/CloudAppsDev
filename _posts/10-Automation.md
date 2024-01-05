@@ -152,7 +152,7 @@ If you want additional experience you can try these ones out, but I'll just be g
 
 ### Project!
 
-This is to be done in Blackboard, but you will be building a "term-project-lite" for this class (if we had 15 weeks, it would not be "lite").  Blackboard will have the details, but I want you to link together **five** services for a fully-functioning cloud application.  **Four** of those services are your decision, however the **fifth** must use one of the following:
+This is to be done in Blackboard, but you will be building a "term-project-lite" for this class.  Blackboard will have the details, but I want you to link together **five** services for a fully-functioning cloud application.  **Four** of those services are your decision, however the **fifth** must use one of the following:
 
 * [Cloud Composer](https://cloud.google.com/composer/)
 * [AI Platform](https://cloud.google.com/ai-platform/) / [AutoML](https://cloud.google.com/automl) / [Tensorflow](https://www.tensorflow.org/)
@@ -160,7 +160,7 @@ This is to be done in Blackboard, but you will be building a "term-project-lite"
 * [Firebase (Full-Stack App Development - Week 5 topic)](https://firebase.google.com/)
 * *Propose a "difficult" service if you have a particular interest*
 
-This assignment has you proposing your topic for me to approve.  The amount of effort I'll be looking for is approximately 2-3 assignments worth of effort (so a functioning prototype that meets agreed-upon specifications).  I'll also be looking for you to do a small writeup and record a demo video that will be due with your final deliverables (will be due during Finals week).
+This assignment has you proposing your topic for me to approve.  The amount of effort I'll be looking for is approximately 2-3 assignments worth of effort (so a functioning prototype that meets agreed-upon specifications).  I'll also be looking for you to do a small writeup and record a demo video that will be due with your final deliverables.
 
 ## Additional Resources
 
