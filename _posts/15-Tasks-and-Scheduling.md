@@ -100,7 +100,7 @@ Basically, do you want to run a `cron` command or an `at` command?  Repeated or 
 
 This is the last section of this blog for this class!  Keep in mind that there is so much more that you can do in the cloud than you could with local resources (though as is the byline for this class - you have to pay for it!).  Why not consider:
 
-* [Taking a trip through Quantum Computing](https://research.google/teams/applied-science/quantum/)
+* [Quantum Computing](https://quantumai.google/)
 * [Use Cloud Functions to create a service-based game?]()
 * [Use Google Cloud for public good!](https://cloud.google.com/blog/products/data-analytics/publicly-available-covid-19-data-for-analytics)
 
