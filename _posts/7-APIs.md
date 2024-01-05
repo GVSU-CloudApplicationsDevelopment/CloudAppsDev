@@ -83,7 +83,7 @@ Figure 2 (c/o Google Cloud) shows a logical API that demonstrates how users inte
 
 > Figure 2: APIs hide the details and enforce contracts
 
-*What is a contract* you may ask?  Depending on the specification being followed, a *contract*  is a specific method exactly how an API functions, how to interact with it, and how to receive data from it.  [Check out this article for some of the different ways of specifying contracts](https://medium.com/theagilemanager/development-what-is-an-api-contract-683ced58e06f).
+*What is a contract* you may ask?  Depending on the specification being followed, a *contract*  is a specific method exactly how an API functions, how to interact with it, and how to receive data from it.  [Check out this article for some of the different ways of specifying contracts](https://craftytechie.com/how-to-create-api-contract/).
 
 ### Is there more to it than just interaction?
 
@@ -227,7 +227,7 @@ Time for a Pub/Sub lab!  For this I'd like to have you get experience with Pub/S
 * [Wikipedia has a delightful overview of what REST means](https://en.wikipedia.org/wiki/Representational_state_transfer)
 * [Pub/Sub Codelab](https://cloud.google.com/pubsub/docs/building-pubsub-messaging-system) script.
 * [Tutorial on building a RESTful API with Flask (Python) and Postman](https://www.kite.com/blog/python/flask-restful-api-tutorial/)
-* [Specifying contracts](https://medium.com/theagilemanager/development-what-is-an-api-contract-683ced58e06f)
+* [Specifying contracts](https://craftytechie.com/how-to-create-api-contract/)
 * [AWS Service Endpoints](https://docs.aws.amazon.com/govcloud-us/latest/UserGuide/using-govcloud-endpoints.html)
 * [Azure API Management](https://azure.microsoft.com/en-us/services/api-management/)
 * [Amazon's explanation of Pub/Sub](https://aws.amazon.com/pub-sub-messaging/)
