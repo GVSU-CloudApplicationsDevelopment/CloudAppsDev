@@ -50,7 +50,7 @@ Kubernetes comprises three aspects: a master node, worker nodes, and pods.
 
 Typically, scalability is enabled by adding pods (scaling up) or removing pods (scaling down).  Let's take a look at the architecture.  Figure 1 (c/o kubernetes.io) shows all the components of a Kubernetes cluster:
 
-<img style="background:#fff" src="https://v1-18.docs.kubernetes.io/images/docs/components-of-kubernetes.png" title="Kubernetes Components" alt="Kubernetes Components" />
+<img style="background:#fff" src="https://kubernetes.io/images/docs/components-of-kubernetes.svg" title="Kubernetes Components" alt="Kubernetes Components" />
 
 > Figure 1: Kubernetes Components (c/o kubernetes.io)
 
