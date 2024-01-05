@@ -56,7 +56,7 @@ I will leave the selection process to the more appropriate database/systems admi
 
 For reference, Microsoft Azure has a similar set of available options, as shown in Figure 3 (c/o dremio.com):
 
-![Microsoft Azure Storage Options](https://www.dremio.com/img/explained/azure-storage/image_0.png "Microsoft Azure Storage Options")
+![Microsoft Azure Storage Options](https://www.msp360.com/resources/wp-content/uploads/2017/10/1-07.png "Microsoft Azure Storage Options")
 
 > Figure 3: Microsoft Azure Storage Options
 
