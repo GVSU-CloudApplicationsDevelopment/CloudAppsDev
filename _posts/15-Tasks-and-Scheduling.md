@@ -5,7 +5,7 @@
 > * [Cloud Scheduler Demo [16:15]](https://youtu.be/7b-OaHp9Ipg)
 > * [Cloud Tasks Demo [19:55]](https://youtu.be/UHDp8J3enAA)
 > * [Quantum Computing Infrastructure [17:40]](https://youtu.be/uqbCVHsgRgY)
-> * [Course Wrapup [3:35]](https://youtu.be/2hfLsKYD8I8)
+> * Course Wrapup
 
 <!-- 
 > Module labs:
@@ -114,7 +114,7 @@ This is the last section of this blog for this class!  Keep in mind that there i
 
 Thanks all for keeping up with this course!  I hope it was as interesting for you to go through as it was for me to put together.  Here's a short video outlining what I hope you were able to get out of it and where to go from here:
 
-> * Module video [Course Wrapup [3:35]](https://youtu.be/2hfLsKYD8I8)
+> * Module video Course Wrapup
 
 # Labs
 
