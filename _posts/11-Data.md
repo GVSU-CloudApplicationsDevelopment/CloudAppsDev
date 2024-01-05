@@ -79,12 +79,12 @@ As you would expect by this point, there are several cloud services to help us m
 Dataproc (and similar) are going to be your engines for processing big data.  Common strategies leverage Hadoop/Spark for working with data.  These are open-source technologies that can be used for handling massive amounts of unstructured data.
 
 * [**Dataflow**](https://cloud.google.com/dataflow)
-  * Amazon analogue = [AWS Data Pipeline](https://aws.amazon.com/datapipeline/)
+  * Amazon analogue = [AWS Glue (formerly Data Pipeline)](https://aws.amazon.com/glue/)
   * Microsoft analogue = [Azure Data Factory](https://azure.microsoft.com/en-us/services/data-factory/)
 
 You may be interested in streaming data.  Streaming data effectively has you analyze and manage data as it arrives in real time, and can typically be setup as a streaming or batch processing service.
 
-* [**BigQuery**](khttps://cloud.google.com/bigquery)
+* [**BigQuery**](https://cloud.google.com/bigquery)
   * Amazon analogue = [AWS Redshift](https://aws.amazon.com/redshift/)
   * Microsoft analogue = [Azure Synapse Analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/)
 
@@ -319,9 +319,9 @@ Time for practical experience! No choice here, just do this one!
   * Amazon analogue = [AWS EMR](https://aws.amazon.com/emr/)
   * Microsoft analogue = [Azure Hindsight](https://azure.microsoft.com/en-us/services/hdinsight/)
 * [**Dataflow**](https://cloud.google.com/dataflow)
-  * Amazon analogue = [AWS Data Pipeline](https://aws.amazon.com/datapipeline/)
+  * Amazon analogue = [AWS Glue (formerly Data Pipeline)](https://aws.amazon.com/glue/)
   * Microsoft analogue = [Azure Data Factory](https://azure.microsoft.com/en-us/services/data-factory/)
-* [**BigQuery**](khttps://cloud.google.com/bigquery)
+* [**BigQuery**](https://cloud.google.com/bigquery)
   * Amazon analogue = [AWS Redshift](https://aws.amazon.com/redshift/)
   * Microsoft analogue = [Azure Synapse Analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/)
 * [Hadoop](https://hadoop.apache.org/)
