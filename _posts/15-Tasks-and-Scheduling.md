@@ -114,7 +114,7 @@ This is the last section of this blog for this class!  Keep in mind that there i
 
 Thanks all for keeping up with this course!  I hope it was as interesting for you to go through as it was for me to put together.  Here's a short video outlining what I hope you were able to get out of it and where to go from here:
 
-> * Module video Course Wrapup
+> * [Module video Course Wrapup](https://youtu.be/k3go9LZf0CI)
 
 # Labs
 
