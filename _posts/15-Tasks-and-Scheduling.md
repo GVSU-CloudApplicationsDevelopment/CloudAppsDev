@@ -5,7 +5,7 @@
 > * [Cloud Scheduler Demo [16:15]](https://youtu.be/7b-OaHp9Ipg)
 > * [Cloud Tasks Demo [19:55]](https://youtu.be/UHDp8J3enAA)
 > * [Quantum Computing Infrastructure [17:40]](https://youtu.be/uqbCVHsgRgY)
-> * Course Wrapup
+> * [Course Wrapup](https://www.youtube.com/watch?v=k3go9LZf0CI)
 
 <!-- 
 > Module labs:
