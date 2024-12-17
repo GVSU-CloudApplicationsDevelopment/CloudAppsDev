@@ -40,7 +40,7 @@ We will assume the protocol (`http`) and domain (`www.somewebsite.com`) are know
 
 A similar example would be querying an embedded system with a temperature sensor to get the current room temperature in your unit of choice.  For instance, I might have a Raspberry Pi outfitted with an appropriate sensor at `192.168.1.1`.  I could run a RESTful API, where I can query the device for information simply by accessing `http://192.168.1.1/getTemperature`.  The HTTP response from the device would simply be the current room temperature.  I could extend this API as well by adding a unit -- `http://192.168.1.1/getTemperature/Fahrenheit` or `http://192.168.1.1/getTemperature/Celsius`.  Again, it is up to the API to understand what this route means and how to accept or return data.  We could access the data via a web browser or via the `curl` command, as you'll see in a forthcoming lab (e.g., `curl http://192.168.1.1/getTemperature`).
 
-Here is a [tutorial on building a RESTful API with Flask (Python) and Postman](https://www.kite.com/blog/python/flask-restful-api-tutorial/).
+Here is a [tutorial on building a RESTful API with Flask (Python) and Postman](https://dev.to/terieyenike/creating-apis-with-flask-and-testing-in-postman-2ojn).
 
 And here is a [simpler one](https://medium.com/@onejohi/building-a-simple-rest-api-with-python-and-flask-b404371dc699)!
 
@@ -83,7 +83,7 @@ Figure 2 (c/o Google Cloud) shows a logical API that demonstrates how users inte
 
 > Figure 2: APIs hide the details and enforce contracts
 
-*What is a contract* you may ask?  Depending on the specification being followed, a *contract*  is a specific method exactly how an API functions, how to interact with it, and how to receive data from it.  [Check out this article for some of the different ways of specifying contracts](https://craftytechie.com/how-to-create-api-contract/).
+*What is a contract* you may ask?  Depending on the specification being followed, a *contract*  is a specific method exactly how an API functions, how to interact with it, and how to receive data from it.  [Check out this article for some of the different ways of specifying contracts](https://bump.sh/blog/api-contracts-extended-introduction).
 
 ### Is there more to it than just interaction?
 
