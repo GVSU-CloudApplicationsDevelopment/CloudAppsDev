@@ -30,7 +30,7 @@ A *serverless* function is really just a function call you make to a remote serv
 
 > *And one by me!: [Serverless Functions [14:45]](https://youtu.be/yVYwg1IHlPY)
 
-The following screenshot shows the list of *currently available* triggers for a Cloud Function.  Note that some are in beta, meaning they are not necessarily ready for prime time yet.
+The following screenshot shows the list of *currently available* triggers for a Cloud Function.  Note that this screenshot has changed multiple times in the past few years.
 
 ![Cloud Function triggers](/CloudAppsDev/assets/images/3-cf-triggers.png "Cloud Function triggers")
 
