@@ -23,9 +23,11 @@ This is intended to be your "textbook" for the class.  It will comprise a series
 
 These are guided labs that are either developed by myself ([you can develop them yourself as well](https://github.com/googlecodelabs/tools) if you like the layout, I know I do!) or by [Google](https://codelabs.developers.google.com/).  Generally a lab manual will accompany them in Blackboard so that you can receive points for your work.
 
-* Qwiklabs
+* Cloud Skills Boost (Qwiklabs)
 
-[Qwiklabs](https://www.qwiklabs.com/) are "paid-for" labs that will supplement what we're working on.  You will receive a bunch of credits to apply to the labs.  As much as I'd have liked to have written these myself, they seem to be very slick and to-the-point, and are excellent guides for the topics at hand.  You can also earn badges for them that you can show off in your profile, if that is important to you.  Note that, while not "official," Qwiklabs can be used to help prepare for various certification exams.  Note that you are never to put your credit card in for **any** technology we use for this course ... if you are enrolled in it with me you will receive free credits via Google.
+[Cloud Skills Boost](https://www.cloudskillsboost.google/) labs (formerly Qwiklabs) are "paid-for" labs that will supplement what we're working on.  You will receive a bunch of credits to apply to the labs.  As much as I'd have liked to have written these myself, they seem to be very slick and to-the-point, and are excellent guides for the topics at hand.  You can also earn badges for them that you can show off in your profile, if that is important to you.  Note that, while not "official," Qwiklabs can be used to help prepare for various certification exams.  Note that you are never to put your credit card in for **any** technology we use for this course ... if you are enrolled in it with me you will receive free credits via Google.
+
+Also, I will most likely still call them Qwiklabs since that has been their name for several years.
 
 * The Dates
 

@@ -18,7 +18,7 @@
 >
 >A *serverless* function is the generic activity we're discussing here, and each provider has their own proprietary name for this:  
 >
->* Google: Cloud Functions
+>* Google: Cloud Run Functions
 >* AWS: Lambda functions
 >* Microsoft Azure: Azure Functions
 
@@ -57,7 +57,7 @@ The lightning bolt represents the serverless function in this example.  Here are
 
 Let's take a look at the key benefits published by Google and Amazon, respectively:
 
-**Google** (c/o [Google Cloud Functions](https://cloud.google.com/functions/))
+**Google** (c/o [Google Cloud Run Functions](https://cloud.google.com/functions/))
 
 * No servers to provision, manage, or upgrade
 * Automatically scale based on the load
@@ -194,7 +194,9 @@ We're not strictly going to cover that in this module, but be aware that it exis
 
 For more information: [Serverless Databases](https://dashbird.io/blog/what-is-serverless-database/)
 
-> For the rest of this post we'll focus on Cloud Functions.
+For the rest of this post we'll focus on Cloud Run Functions.
+
+> **Note**: Cloud Run Functions were previously called Cloud Functions.  They have been moved into the Cloud Run service and have been renamed.
  
 ## Accessing
 

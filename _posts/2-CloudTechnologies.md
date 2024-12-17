@@ -157,7 +157,10 @@ Cloud Shell (or the Cloud SDK) is a command-line interface (CLI) for interacting
 
 * `gsutil`
 
-`gsutil` allows you to work with [Cloud Storage buckets](https://cloud.google.com/storage/docs/json_api/v1/buckets) and objects.  Effectively, this is your program for working with files and data that you are keeping in persistent storage.
+`gsutil` allows you to work with [Cloud Storage buckets](https://cloud.google.com/storage/docs/json_api/v1/buckets) and objects.  Effectively, this is your program for working with files and data that you are keeping in persistent storage. 
+
+Note that this command is being deprecated in favor of `gcloud storage`.
+
 
 * `bq`
 
