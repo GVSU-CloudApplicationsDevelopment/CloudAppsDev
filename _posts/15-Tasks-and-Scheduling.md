@@ -109,6 +109,7 @@ However, with AI being the new hotness across all of computing let's take a quic
  
 > * Module video []()
 > * [Reference](https://cloud.google.com/vertex-ai/generative-ai/docs/samples/generativeaionvertexai-rag-quickstart)
+> * [Getting started with ML: 25+ resources recommended by role and task](https://cloud.google.com/blog/products/ai-machine-learning/getting-started-with-vertex-ai)
 
 ## The last video from me to you!
 
