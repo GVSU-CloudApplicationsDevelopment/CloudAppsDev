@@ -4,7 +4,7 @@
 > * [Cloud Tasks and Scheduler Overview [7:20]](https://youtu.be/_Cb52DCzpwY)
 > * [Cloud Scheduler Demo [16:15]](https://youtu.be/7b-OaHp9Ipg)
 > * [Cloud Tasks Demo [19:55]](https://youtu.be/UHDp8J3enAA)
-> * [Quantum Computing Infrastructure [17:40]](https://youtu.be/uqbCVHsgRgY)
+> * [RAG video]()
 > * [Course Wrapup](https://www.youtube.com/watch?v=k3go9LZf0CI)
 
 <!-- 
@@ -100,21 +100,21 @@ Basically, do you want to run a `cron` command or an `at` command?  Repeated or 
 
 This is the last section of this blog for this class!  Keep in mind that there is so much more that you can do in the cloud than you could with local resources (though as is the byline for this class - you have to pay for it!).  Why not consider:
 
-* [Quantum Computing](https://quantumai.google/)
-* [Use Cloud Functions to create a service-based game?]()
+* [RAG](https://cloud.google.com/use-cases/retrieval-augmented-generation?hl=en)
 * [Use Google Cloud for public good!](https://cloud.google.com/blog/products/data-analytics/publicly-available-covid-19-data-for-analytics)
 
+This is an interesting section, as for the past few years I've had references for how to use Google Cloud to do quantum computing.  HOWEVER, they seem to have scrubbed all references to that project and (I'm guessing) it is now part of the [Google Graveyard](https://killedbygoogle.com/).
 
- Here is an overview of using Compute Engine and Colab to handle quantum computing.  Note: this is *not* a deep dive into quantum computing, but just a demonstration of how you can get setup with an environment for learning it!
+However, with AI being the new hotness across all of computing let's take a quick look at Retrieval-Augmented Generation (RAG).  Typically, you'll come across this topic when looking into chatbots, but it can be used for many more things, including autocomplete, search, document completion, etc.  Here's a reference to peruse: [7 Practical Applications of RAG Models and their Impact on Society](https://hyperight.com/7-practical-applications-of-rag-models-and-their-impact-on-society/)
  
-> * Module video [Quantum Computing Infrastructure [17:40]](https://youtu.be/uqbCVHsgRgY)
-> * [Reference](https://cloud.google.com/solutions/quantum-simulation-on-google-cloud-with-cirq-qsim)
+> * Module video []()
+> * [Reference](https://cloud.google.com/vertex-ai/generative-ai/docs/samples/generativeaionvertexai-rag-quickstart)
 
 ## The last video from me to you!
 
 Thanks all for keeping up with this course!  I hope it was as interesting for you to go through as it was for me to put together.  Here's a short video outlining what I hope you were able to get out of it and where to go from here:
 
-> * [Module video Course Wrapup](https://youtu.be/k3go9LZf0CI)
+> * Module video Course Wrapup - to be recorded towards the end of class!
 
 # Labs
 
