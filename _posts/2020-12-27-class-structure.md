@@ -7,7 +7,7 @@ excerpt:
 
         <h2>Useful links</h2>
         <ul>
-        <li><a href="https://www.youtube.com/playlist?list=PLKl241YUM7mzmJjh9DYsbHJ68V34oIhzc" target="_blank">Course YouTube Playlist</a></li>
+        <li><a href="https://youtube.com/playlist?list=PLKl241YUM7mwrPRtLN0614wS9G8eYSSmd&si=QyGif0G-oVgQaXuG" target="_blank">Course YouTube Playlist</a></li>
         <li><a href="https://console.cloud.google.com" target="_blank">Google Cloud</a></li>
         <li><a href="https://codelabs.developers.google.com/" target="_blank">All Google Codelabs</a>
         </ul>

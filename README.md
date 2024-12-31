@@ -14,7 +14,7 @@ As a heads up, the videos were initially recorded in 2020 and I have updated/add
 
 ## Quick Links
 
-* [YouTube playlist](https://www.youtube.com/playlist?list=PLKl241YUM7mwtMlCQBQwFzWaMe453SahI)
+* [YouTube playlist](https://youtube.com/playlist?list=PLKl241YUM7mwrPRtLN0614wS9G8eYSSmd&si=QyGif0G-oVgQaXuG)
 * Course website - Blackboard (sorry non-GVSU students)
 * [Google Cloud Console](https://console.cloud.google.com)
 * Syllabus
