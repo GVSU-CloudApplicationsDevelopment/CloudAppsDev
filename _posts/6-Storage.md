@@ -8,6 +8,7 @@
 > * [Cloud Storage / Cloud Functions / DLP demo (2/2) [16:10]](https://youtu.be/zmhFTUioSkU)
 > * [Cloud Datastore Demo [13:39]](https://youtu.be/y9T9Xm7oge0)
 > * [Cloud Spanner Demo [10:56]](https://youtu.be/1r7rY6BKmUY)
+> * [SQL warning! [7:53]](https://youtu.be/fybnJjgem3U)
 
 <!-- > Module labs:
 > * [Bigtable: Qwik Start - Command Line [1 credit]](https://www.qwiklabs.com/focuses/579?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=9414783)
@@ -132,6 +133,12 @@ Here, you might go for BigTable if you're looking to manage data considered 'big
 > Module Video: [Cloud Datastore Demo [13:39]](https://youtu.be/y9T9Xm7oge0)
 
 Cloud Datastore - [https://codelabs.developers.google.com/codelabs/cloud-spring-datastore/](https://codelabs.developers.google.com/codelabs/cloud-spring-datastore/)
+
+### And last, but not least, a warning!
+
+It turns out that using some of the SQL services up in the cloud are not necessarily the cheapest option!  Something to consider as you design your applications - that horizontal scaling tends to drive up the price pretty quickly.
+
+> Module Video: [SQL warning! [7:53]](https://youtu.be/fybnJjgem3U)
 
 ## Lab
 

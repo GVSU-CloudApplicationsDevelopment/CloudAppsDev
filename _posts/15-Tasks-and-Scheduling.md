@@ -4,7 +4,7 @@
 > * [Cloud Tasks and Scheduler Overview [7:20]](https://youtu.be/_Cb52DCzpwY)
 > * [Cloud Scheduler Demo [16:15]](https://youtu.be/7b-OaHp9Ipg)
 > * [Cloud Tasks Demo [19:55]](https://youtu.be/UHDp8J3enAA)
-> * [RAG video]()
+> * [RAG Demo [15:17]](https://youtu.be/QpPi6-s1rLQ)
 > * [Course Wrapup](https://www.youtube.com/watch?v=k3go9LZf0CI)
 
 <!-- 
@@ -107,7 +107,7 @@ This is an interesting section, as for the past few years I've had references fo
 
 However, with AI being the new hotness across all of computing let's take a quick look at Retrieval-Augmented Generation (RAG).  Typically, you'll come across this topic when looking into chatbots, but it can be used for many more things, including autocomplete, search, document completion, etc.  Here's a reference to peruse: [7 Practical Applications of RAG Models and their Impact on Society](https://hyperight.com/7-practical-applications-of-rag-models-and-their-impact-on-society/)
  
-> * Module video []()
+> * Module video: [RAG Demo [15:17]](https://youtu.be/QpPi6-s1rLQ)
 > * [Reference](https://cloud.google.com/vertex-ai/generative-ai/docs/samples/generativeaionvertexai-rag-quickstart)
 > * [Getting started with ML: 25+ resources recommended by role and task](https://cloud.google.com/blog/products/ai-machine-learning/getting-started-with-vertex-ai)
 

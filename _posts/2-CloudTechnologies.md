@@ -10,7 +10,7 @@
 > * [Using the Cloud Shell Pt. 1/2 [11:38]](https://youtu.be/8UkNo5_61Ws)
 > * [Using the Cloud Shell Pt. 2/2 [16:07]](https://youtu.be/jZxT-qqBUlA)
 > * [Cloud Free Tiers [8:51]](https://youtu.be/2Fp6GDETmz8)
-> * [Editing and Uploading [11:05]](https://youtu.be/yXtSev26ykw)
+> * [Editing and Uploading [17:36]](https://youtu.be/6CodUcPyIzQ)
 
 <!-- 
 
@@ -80,7 +80,7 @@ Note there are different regions specified as well!  These can correlate to geog
 
 > The following video will go over how to edit files in both the Cloud Shell and a (Linux) VM, as well as how to upload/download files with your VMs:
 
-> Module Video - [Editing and Uploading [11:05]](https://youtu.be/yXtSev26ykw)
+> Module Video - [Editing and Uploading [17:36]](https://youtu.be/6CodUcPyIzQ)
 
 #### AutoScaling
 

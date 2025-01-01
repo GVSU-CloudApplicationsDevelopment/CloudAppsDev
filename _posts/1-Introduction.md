@@ -17,6 +17,7 @@ Welcome to Cloud Application Development!  This module will introduce you to the
 > * [Lab 1 Overview (Setup / Virtual Machines) [21:31]](https://youtu.be/IImFXvMWzM8)
 > * [Lab Environments [8:36]](https://youtu.be/PEjyIlvl-88)
 > * [General Reference for Cloud Tools I Use (Vim, Nano, tmux) [40:40]](https://youtu.be/Mck8pd1Hw4Q)
+> * [AWS Academy Overview [10:39]](https://youtu.be/rYOJ6xqZqa4)
 
 <!-- 
 > Module labs:
@@ -91,6 +92,12 @@ As of December 2020, AWS owns an astonishing 62% of the cloud market, with Micro
 
 > *Source: [https://medium.com/weekly-webtips/google-cloud-vs-aws-vs-azure-bafb554e036](https://medium.com/weekly-webtips/google-cloud-vs-aws-vs-azure-bafb554e036)*
 
+And, as of Q3 2024, AWS is still in the lead over Azure and Google Cloud, although the margins are weakening.
+
+![Statista market share chart](https://cdn.statcdn.com/Infographic/images/normal/18819.jpeg)
+
+> *Source: [https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/](https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/)
+
 Really, there isn't one "good" answer for which you should pick.  We'll now list out some considerations for you to ponder.
 
 ### Cloud Provider Considerations
@@ -132,13 +139,15 @@ Considerations consistently change with respect to cloud providers.  Here, I am 
 * Cons:
   - Tend to be a 'secondary partner' as they not as prominent in the cloud game
 
-## Qwiklabs Options
+## Cloud Skills Boost (formerly Qwiklabs) Options
 
 Before we get into the lab, let's talk a little bit about [Qwiklabs](https://www.qwiklabs.com/).  By now, you should've received credits from Qwiklabs (separately from Google Cloud!).  Qwiklabs are self-guided labs that walk you through a particular topic, where each lab is essentially a self-contained instance.  Essentially each Qwiklab is sandboxed in that whatever you create lives and dies within that particular instance.
 
 The reason we're talking about them here is that later on in this class you'll have to go through some for homework, however you're more than welcome to start digging into them now if you want to learn a particular topic (or want a different perspective on the topic at hand).  A neat thing with Qwiklabs is that some of them use AWS instead of Google Cloud.
 
 At present we were not able to get free credits for AWS (you can sign up for the free tier, however that's a "forever" thing and I'd rather not burn out your accounts on class projects), but if you want experience in that realm feel free to make use of the credits!
+
+They were called Qwiklabs for several years and recently were renamed to Cloud Skills Boost labs.  I'll use the terms interchangeably.
 
 ## Term Projects
 
@@ -153,6 +162,8 @@ Around the middle of the semester I'll ask you for a proposal.  Expect this to b
 > Module Video: <a href="https://youtu.be/IImFXvMWzM8" target="_blank">Lab 1 Overview (Setup / Virtual Machines) [21:31]</a>
 
 > (Another) Module Video: <a href="https://youtu.be/PEjyIlvl-88" target="_blank">Lab Environments [8:36]</a>
+
+> (Yet Another Module Video) [AWS Academy Overview [10:39]](https://youtu.be/rYOJ6xqZqa4)
 
 Time for your first lab assignment!  This will get you up and running with a Google Cloud account, walk you through the web interface, and have you create a web server.  
 

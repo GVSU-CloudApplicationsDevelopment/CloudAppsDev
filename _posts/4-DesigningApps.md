@@ -9,6 +9,7 @@
 > * [Monolithic-Microlithic Demo Pt 1 [11:31]](https://youtu.be/9xsET1j3VPI)
 > * [Monolithic-Microlithic Demo Pt 2 [18:19]](https://youtu.be/gUXSSpsvARg)
 > * [Monolithic-Microlithic Demo Pt 3 [19:01]](https://youtu.be/P_hvBGdrTqQ)
+> * [Monolithic fun (a discussion) [5:02]](https://youtu.be/dhzTv_r9dRc)
 
 <!-- > Module labs:
 > * Blackboard - Monolithic to Microservices
@@ -197,6 +198,10 @@ If you want to see it in action, I went through the Codelab steps in the followi
 * [Module Video - Monolithic-Microlithic Demo Pt 1 [11:31]](https://youtu.be/9xsET1j3VPI)
 * [Module Video - Monolithic-Microlithic Demo Pt 2 [18:19]](https://youtu.be/gUXSSpsvARg)
 * [Module Video - Monolithic-Microlithic Demo Pt 3 [19:01]](https://youtu.be/P_hvBGdrTqQ)
+
+And, it turns out that always breaking applications apart might not be the best idea!
+
+> [Module Video - Monolithic fun (a discussion) [5:02]](https://youtu.be/dhzTv_r9dRc)
 
 ## Additional Resources
 

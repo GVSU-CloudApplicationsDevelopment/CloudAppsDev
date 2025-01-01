@@ -13,6 +13,7 @@ excerpt:
           <li><a href="https://youtu.be/zmhFTUioSkU" target="_blank">Cloud Storage / Cloud Functions / DLP demo (2/2) [16:10]</a></li>
           <li><a href="https://youtu.be/y9T9Xm7oge0" target="_blank">Cloud Datastore Demo [13:39]</a></li>
           <li><a href="https://youtu.be/1r7rY6BKmUY" target="_blank">Cloud Spanner Demo [10:56]</a></li>
+          <li><a href="https://youtu.be/fybnJjgem3U" target="_blank">SQL warning! [7:53]</a></li>
         </ul>
         # <h2>Module Labs</h2>
         # <ul>

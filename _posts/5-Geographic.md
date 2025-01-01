@@ -4,6 +4,7 @@
 > * [Overview of geographic concerns [10:18]](https://youtu.be/NXLX4nIfEkQ)
 > * [Load Balancing Demo (1/2) [10:38]](https://youtu.be/oawtW7W_T9U)
 > * [Load Balancing Demo (2/2) [10:59]](https://youtu.be/NjX1B5eOqic)
+> * [Return of the load balancer! [20:00]](https://youtu.be/0aiaZZb70Og)
 > * [(Google) GCP regions and zones [1:59]](https://www.youtube.com/watch?v=ieQ6l29Qqe4)
 
 <!-- > Module labs:
@@ -80,6 +81,7 @@ Here's a demo on load balancing!  Try it out for some experience with the `gclou
 
 > * Module video: [Load Balancing Demo (1/2) [10:38]](https://youtu.be/oawtW7W_T9U)
 > * Module video: [Load Balancing Demo (2/2) [10:59]](https://youtu.be/NjX1B5eOqic)
+> * Module video: [Return of the load balancer! [20:00]](https://youtu.be/0aiaZZb70Og)
 
 ### Export Controls
 

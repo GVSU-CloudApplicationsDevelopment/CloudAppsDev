@@ -7,7 +7,7 @@ excerpt:
         <h2>Module Videos</h2>
         <ul>
           <li><a href="https://www.youtube.com/watch?v=JtUIQz_EkUw" target="_blank">Google - What is the cloud? [42:36]</a></li>
-          <li><a href="https://youtu.be/nUlyCDWsG_c" target="_blank">Welcome to Class!  [20:03]</a></li>
+          <li><a href="https://youtu.be/y1lmDsqzJq4" target="_blank">Welcome to Class!  [17:19]</a></li>
           <li><a href="https://youtu.be/N5UO2xXnzYk" target="_blank">Plagiarism/Cheating Note  [3:48]</a></li>
           <li><a href="https://youtu.be/AtRZiBrxKnI" target="_blank">Intro to the Cloud [8:14]</a></li>
           <li><a href="https://youtu.be/8YRF9BsoSvY" target="_blank">Term Project Ideas [6:19]</a></li>
@@ -18,6 +18,7 @@ excerpt:
           <li><a href="https://youtu.be/IImFXvMWzM8" target="_blank">Lab 1 Overview (Setup / Virtual Machines) [21:31]</a></li>
           <li><a href="https://youtu.be/PEjyIlvl-88" target="_blank">Lab Environments [8:36]</a></li>
           <li><a href="https://youtu.be/Mck8pd1Hw4Q" target="_blank">General Reference for Cloud Tools I Use (Vim, Nano, tmux) [40:40]</a></li>
+          <li> <a href="https://youtu.be/rYOJ6xqZqa4" target="_blank">AWS Academy Overview [10:39]</a></li>
         </ul>
 
         # <h2>Module Labs</h2>

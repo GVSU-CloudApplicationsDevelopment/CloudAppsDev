@@ -8,6 +8,7 @@
 > * [Cloud Functions/Storage Buckets Demo [12:13]](https://youtu.be/UB2KSBR3Zbk) 
 > * [Cloud Functions Authentication Demo [11:59]](https://youtu.be/hs5f3sIg69o)
 > * [Calling Cloud Functions from Python (with multiprocessing and requests) [7:36]](https://youtu.be/TkF07-_H3wA)
+> * [Triggering Cloud Functions via Bucket Activity [7:07]](https://youtu.be/Yh1sThhLIXA)
 
 <!-- > Module labs:
 > * [CodeLab -- Stackdriver Logging and Stackdriver Trace for Cloud Functions](https://codelabs.developers.google.com/codelabs/cloud-function-logs-traces) -->
@@ -283,6 +284,10 @@ The following link will take you to a Google-created Codelab.
 I thought you might be interested in how you can interact with Cloud Functions via a local CLI.  To spice things up, I added multiprocessing (one form of parallel processing you can do in Python).  Of note with this example is that you could extend it to whatever local application you have.
 
 [Calling Cloud Functions from Python (with multiprocessing and requests) [7:36]](https://youtu.be/TkF07-_H3wA)
+
+Additionally, a bit more of a demonstration of how you can have your Cloud Functions triggered via activity within a Cloud Storage Bucket.  Handy if you need to keep an eye on those pesky files!
+
+[Triggering Cloud Functions via Bucket Activity [7:07]](https://youtu.be/Yh1sThhLIXA)
 
 ## Additional Resources
 
