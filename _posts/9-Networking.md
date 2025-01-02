@@ -151,10 +151,9 @@ Here are a few points on Google Cloud VPC firewalls:
 
 Basically, the point to keep in mind is that there is an implied `Deny All` rules for ingress (i.e., incoming connections) and `Allow All` for egress (i.e., outgoing connections).  I'm simplifying here, but there is a great deal of information available on [Google Cloud Firewalls](https://cloud.google.com/vpc/docs/firewalls) to peruse.
 
-However, the best way to get comfortable with VPC networking is with hands-on activities.  Here are two labs I'd like you to run through (see assignments in Blackboard for deliverables).  They will give you experience with VPC connectivity and access control, respectively:
+However, the best way to get comfortable with VPC networking is with hands-on activities.  Here is a lab I'd like you to run through (see assignments in Blackboard for deliverables).  It will give you experience with VPC connectivity and access control, respectively:
 
-* Lab 1: [QwikLabs - Multiple VPC Networks (GSP211) [7 credits]](https://run.qwiklabs.com/focuses/1230?parent=catalog)
-* Lab 2: [QwikLabs - VPC Networks: Controlling Access (GSP213) [7 credits]](https://run.qwiklabs.com/focuses/1231?parent=catalog)
+* Lab: [VPC Networks - Controlling Access](https://www.cloudskillsboost.google/focuses/1231?parent=catalog)
 
 
 ## Load Balancing
@@ -176,10 +175,9 @@ Essentially, you can set how you want your network load to be distributed (and y
 > For step four, the backend service will track the serving capacity and instance health of each backend and always send traffic to the backend that is closest to the user that has capacity. 
 > For steps five through seven, the backends can either be a managed or unmanaged group of instances. Firewall rules and health checks will help determine if traffic will reach the instances.
 
-To help you understand load balancing, we'll run through two more QwikLabs.  These will help you learn how to setup an HTTP load balancer (similar to the above figure) and load balance based on internal workloads, respectively (again, see Blackboard for deliverable expectations).
+To help you understand load balancing, we'll run through another QwikLab.  It will help you learn how to setup an HTTP load balancer (similar to the above figure) and load balance based on internal workloads, respectively (again, see Blackboard for deliverable expectations).
 
-* Lab 3: [QwikLabs - HTTP Load Balancer with Cloud Armor (GSP215) [7 credits]](https://run.qwiklabs.com/focuses/1232?parent=catalog)
-* Lab 4: [QwikLabs - Create an Internal Load Balancer (GSP216) [7 credits]](https://run.qwiklabs.com/focuses/1250?parent=catalog)
+* Lab: [Create an Internal Load Balancer](https://www.cloudskillsboost.google/focuses/1250?parent=catalog)
 
 ## Additional Resources
 

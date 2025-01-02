@@ -134,10 +134,6 @@ It will be best to gain some experience with setting up a basic deployment.  The
 > * Module video: [Kubernetes Deployment Demo [17:06]](https://youtu.be/x-3uf20MTKc)
 > * Codelab: [Spring Boot Kubernetes Deployment](https://codelabs.developers.google.com/codelabs/cloud-springboot-kubernetes)
 
-The lab you need to do here (for credit, still attempt the Codelab above for practice!) is the Kubernetes Qwiklabs quest.  It will take you through building up a Docker container to deploying a Kubernetes cluster.  Definitely good practice!
-
-* Module lab: [Qwiklabs - Kubernetes in Google Cloud Quest [25 credits]](https://www.qwiklabs.com/quests/29)
-
 ## Cloud Build and Cloud Run
 
 We have looked at Cloud Build and Cloud Run in the past (see [Automation](/CloudAppsDev/2020/12/17/automation.html)), however it is worth discussing again in the context of container orchestration.  

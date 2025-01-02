@@ -190,10 +190,14 @@ Ok, enough preamble.  Let's do some Dataproc work!
 
 **Lab choices**
 
-For this assignment you have a choice!  You can either do the Qwik Start or a Hadoop/Spark lab (or both, but I'll only be grading you on one!).  See Blackboard for submission details.
+For this assignment you have a choice!  You can either do the Qwik Start with templates or Python (or both, but I'll only be grading you on one!).  See Blackboard for submission details.
 
-* [Dataproc: Qwik Start (Console)](https://run.qwiklabs.com/focuses/586?parent=catalog)
-* [Dataproc: Hadoop/Spark](https://www.qwiklabs.com/focuses/672?parent=catalog)
+* [Dataproc: Qwik Start (Templates)](https://run.qwiklabs.com/focuses/1101?parent=catalog)
+* [Dataproc: Qwik Start (Python)](https://run.qwiklabs.com/focuses/1100?parent=catalog)
+
+And you have to do this one regardless!
+
+* [Qwiklabs: Dataprep Qwik Start](https://www.cloudskillsboost.google/focuses/584?catalog_rank=%7B%22rank%22%3A7%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10225273)
 
 ## Dataflow (*or, how I learned to stop worrying and love the datastream*)
 

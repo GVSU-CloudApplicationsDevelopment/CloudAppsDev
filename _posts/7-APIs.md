@@ -142,7 +142,7 @@ Here is a run-through of a Cloud Endpoints demo, complete with some issues exper
 
 Let's get some practical experience using QwikLabs.  
 
-> [Qwiklab - Cloud Endpoints: Qwik Start (GSP164) [1 credit]](https://www.qwiklabs.com/focuses/767?parent=catalog)
+> [Qwiklab - Cloud Endpoints: Qwik Start](https://www.qwiklabs.com/focuses/767?parent=catalog)
 
 ## Managed Message Services and Pub/Sub
 
@@ -161,6 +161,8 @@ Consider a streaming gaming platform (publicity photo as shown in Figure 7).  Th
 > Figure 7: Google Stadia Publicity (c/o Forbes/Google)
 
 Let us assume we can solve the 'speed' issues here (hint: games need to run fast otherwise you have a poor player experience).  However, there is so much more going on here.  You might be interested in 'how' players are interacting with the game.  For instance, you might be interested to see what keypresses they make most often, which areas they are drawn to, how they solve puzzles, etc.  This type of information can be gleaned from user input via analytics.  Using such information, you can tailor the experience to the user, create innovative experiences, gain business insights, etc.
+
+> However, Stadia has been since decommissioned.
 
 Another example is in music streaming services (or some other complex orchestration task specific to *your* business).  Let's say a user wants to play a song on whichever of the multiple audio-ready devices they own.  The service itself must do a lot in the background!  The record company needs to be paid for royalties, music catalogues require updating, song recommendations need updating, analytics must be performed on user actions, and so on.  What started as a simple task (play a song) has transformed into a massive set of interacting service activities.  Figure 8 (c/o Google) shows such an interaction:
 
@@ -214,7 +216,7 @@ The following video walks you through a [Codelab](https://cloud.google.com/pubsu
 
 > Module video: [Pub/Sub Demo [21:08]](https://youtu.be/UKAmZBrR300)
 
-Time for a Pub/Sub lab!  For this I'd like to have you get experience with Pub/Sub in two different forms - the Cloud Console/Shell and Python.  Note that you can run Python in the Cloud Shell, so nothing needed locally!
+Time for Pub/Sub labs!  **Note - these are not required for credit, just helpful for experience**. For this I'd like to have you get experience with Pub/Sub in two different forms - the Cloud Console/Shell and Python.  Note that you can run Python in the Cloud Shell, so nothing needed locally!
 
 > [QwikLabs - Google Cloud Pub/Sub: Qwik Start - Console (GSP096) [Free]](https://www.qwiklabs.com/focuses/3719?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=8673991)
 

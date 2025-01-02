@@ -265,19 +265,15 @@ Here is another for how to use authentication (internal to Google) with Cloud Fu
 
 ## Lab - Cloud Functions (Advanced)
 
-This codelab is going to do two things.  First, you will spin up a Cloud Function and get it up and running, learn how to access it, etc.  This part is not strictly a difficult concept and the typical `Hello World` function is beneath you. 
-
-However, let's add on an exceedingly important component to any cloud app developer: *logging*.
-
-Here we're going to work through Stackdriver logging and trace, two components of Google Cloud that will really help you understand what is happening with your cloud functions.  
+This codelab is going to do multiple things with Cloud Functions. Lots of fiddly bits - have fun!
 
 ### Lab Instructions
 
-As with our other assignments, we have a Blackboard assignment for you to provide screenshots for as you work through the Codelab.  I'll be asking for screenshots from your progress and also have you perform a *little extra work as well*.  
+As with our other assignments, we have a Blackboard assignment for you to provide screenshots for as you work through the Codelab.  
 
 The following link will take you to a Google-created Codelab.  
 
-[Google CodeLab -- Stackdriver Logging and Stackdriver Trace for Cloud Functions](https://codelabs.developers.google.com/codelabs/cloud-function-logs-traces)
+[Getting started with Cloud Functions (2nd gen)](https://codelabs.developers.google.com/codelabs/cloud-starting-cloudfunctions-v2)
 
 ### Extra Video
 

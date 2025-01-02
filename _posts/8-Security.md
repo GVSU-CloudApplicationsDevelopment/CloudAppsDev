@@ -224,9 +224,9 @@ Another hopefully self-evident task, but ensure your access keys expire regularl
 
 ## Lab
 
-You'll be completing your first Qwiklabs Quest!  This comprises 8 separate labs that takes you through the various facets of security and IAM.  For this one, simply run through the Quest and I'll check the completion reports.
+You'll be completing your first Qwiklabs Quest (or Cloud Skills Boost course, yawn - Quest was a cooler name)!  This comprises 9 separate labs that takes you through the various facets of security and IAM.  For this one, simply run through the course and I'll check the completion reports.
 
-> [Qwiklabs Quest - Security and Identity Fundamentals [40 credits]](https://www.qwiklabs.com/quests/40)
+> [Qwiklabs Quest - Security and Identity Fundamentals](https://www.cloudskillsboost.google/course_templates/770?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=40524139)
 
 ## Additional Resources
 

@@ -140,11 +140,22 @@ It turns out that using some of the SQL services up in the cloud are not necessa
 
 > Module Video: [SQL warning! [7:53]](https://youtu.be/fybnJjgem3U)
 
-## Lab
+## Labs
 
-Let's do something fun now that you have gained some experience with the more 'standard' methods of handling data (both structured and unstructured).  Let's use BigTable to coerce the BigTable visualizer into creating artwork for us!  This is a lab for class, so you'll be walking through this one on your own (see Blackboard for deliverables).
+There are a couple of Qwiklabs available in Blackboard for you to go through - working with Bigtable on the command line and creating/populating an instance!
 
-[Codelab - BigTable Visualizer](https://codelabs.developers.google.com/codelabs/bigtable-keyviz-art-hbase-java)
+## Project!
+
+This is to be done in Blackboard, but you will be building a "term-project-lite" for this class.  Blackboard will have the details, but I want you to link together **five** services for a fully-functioning cloud application.  **Four** of those services are your decision, however the **fifth** must use one of the following:
+
+* [Cloud Composer](https://cloud.google.com/composer/)
+* [AI Platform](https://cloud.google.com/ai-platform/) / [AutoML](https://cloud.google.com/automl) / [Tensorflow](https://www.tensorflow.org/)
+* [Kubernetes (Container Orchestration - Week 5 topic)](https://cloud.google.com/kubernetes-engine/)
+* [Firebase (Full-Stack App Development - Week 5 topic)](https://firebase.google.com/)
+* *Propose a "difficult" service if you have a particular interest*
+
+This assignment has you proposing your topic for me to approve.  The amount of effort I'll be looking for is approximately 2-3 assignments worth of effort (so a functioning prototype that meets agreed-upon specifications).  I'll also be looking for you to do a small writeup and record a demo video that will be due with your final deliverables.
+
 
 
 ## Additional Resources

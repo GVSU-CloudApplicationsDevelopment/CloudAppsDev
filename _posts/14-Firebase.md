@@ -152,7 +152,7 @@ And here is a long-winded example of hooking up Firebase with Cloud Functions to
 
 Homework here!  This will walk you through all the various facets of Firebase!
 
-* [Qwiklabs - Build Apps & Websites with Firebase [20 credits]](https://www.qwiklabs.com/quests/148)
+> * [Cloud Skills Boost Course - Firebase (see Blackboard)](https://www.cloudskillsboost.google/course_templates/649?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=30526248)
 
 ## Additional Resources
 

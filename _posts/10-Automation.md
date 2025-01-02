@@ -150,18 +150,6 @@ If you want additional experience you can try these ones out, but I'll just be g
 * [QwikLabs - Cloud Monitoring: Qwik Start [1 credit]](https://google.qwiklabs.com/focuses/10599?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=9504730)
 * [Codelabs - Analyze Production Performance with Cloud Profiler](https://codelabs.developers.google.com/codelabs/cloud-profiler)
 
-### Project!
-
-This is to be done in Blackboard, but you will be building a "term-project-lite" for this class.  Blackboard will have the details, but I want you to link together **five** services for a fully-functioning cloud application.  **Four** of those services are your decision, however the **fifth** must use one of the following:
-
-* [Cloud Composer](https://cloud.google.com/composer/)
-* [AI Platform](https://cloud.google.com/ai-platform/) / [AutoML](https://cloud.google.com/automl) / [Tensorflow](https://www.tensorflow.org/)
-* [Kubernetes (Container Orchestration - Week 5 topic)](https://cloud.google.com/kubernetes-engine/)
-* [Firebase (Full-Stack App Development - Week 5 topic)](https://firebase.google.com/)
-* *Propose a "difficult" service if you have a particular interest*
-
-This assignment has you proposing your topic for me to approve.  The amount of effort I'll be looking for is approximately 2-3 assignments worth of effort (so a functioning prototype that meets agreed-upon specifications).  I'll also be looking for you to do a small writeup and record a demo video that will be due with your final deliverables.
-
 ## Additional Resources
 
 > * [Cloud Build/Run Codelab](https://codelabs.developers.google.com/codelabs/cloud-run-deploy/)
